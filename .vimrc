@@ -42,5 +42,3 @@ nmap <Leader>nt :NERDTreeFind<CR>
 
 nmap <Leader>w :w<CR>
 nmap <Leader>q :q<CR>
-nmap <Leader>q! :q!<CR>
-nmap <Leader>x! :x!<CR>
