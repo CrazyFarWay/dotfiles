@@ -16,7 +16,7 @@ set noshowmode "Para que no muestre el modo actual
 call plug#begin('~/.vim/plugged')
 
 " Temas
-Plug 'mhartington/oceanic-next'
+Plug 'dracula/vim',{'as':'dracula'}
 
 " Wiki
 Plug 'vimwiki/vimwiki'
@@ -28,11 +28,7 @@ Plug 'christoomey/vim-tmux-navigator'
 
 call plug#end()
 
-if (has("termguicolors"))
-  set termguicolors
-endif
-
-colorscheme OceanicNext
+colorscheme dracula
 
 "let NERDTreeQuitOnOpen=1 //Sirve para cerrar nerdtree cuando abrimos un
 "archivo
