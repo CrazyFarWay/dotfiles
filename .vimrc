@@ -16,7 +16,7 @@ set noshowmode "Para que no muestre el modo actual
 call plug#begin('~/.vim/plugged')
 
 " Temas
-Plug 'dracula/vim',{'as':'dracula'}
+Plug 'sainnhe/edge'
 
 " Wiki
 Plug 'vimwiki/vimwiki'
@@ -28,7 +28,9 @@ Plug 'christoomey/vim-tmux-navigator'
 
 call plug#end()
 
-colorscheme dracula
+let g:edge_style = 'aura'
+let g:edge_transparent_background = 1
+colorscheme edge
 
 "let NERDTreeQuitOnOpen=1 //Sirve para cerrar nerdtree cuando abrimos un
 "archivo
