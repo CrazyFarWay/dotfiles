@@ -18,6 +18,9 @@ call plug#begin('~/.vim/plugged')
 " Temas
 Plug 'mhartington/oceanic-next'
 
+" Wiki
+Plug 'vimwiki/vimwiki'
+
 " IDE
 Plug 'easymotion/vim-easymotion'
 Plug 'scrooloose/nerdtree'
@@ -42,5 +45,3 @@ nmap <Leader>nt :NERDTreeFind<CR>
 
 nmap <Leader>w :w<CR>
 nmap <Leader>q :q<CR>
-nmap <Leader>q! :q!<CR>
-nmap <Leader>x! :x!<CR>
