@@ -17,6 +17,9 @@ call plug#begin('~/.vim/plugged')
 
 " Temas
 Plug 'sainnhe/edge'
+Plug 'wolf-dog/nighted.vim'
+Plug 'wolf-dog/sceaduhelm.vim'
+Plug 'danilo-augusto/vim-afterglow'
 
 " Wiki
 Plug 'vimwiki/vimwiki'
@@ -28,9 +31,9 @@ Plug 'christoomey/vim-tmux-navigator'
 
 call plug#end()
 
-let g:edge_style = 'aura'
-let g:edge_transparent_background = 1
-colorscheme edge
+"let g:edge_style = 'aura'
+let g:afterglow_blackout=1
+colorscheme afterglow
 
 "let NERDTreeQuitOnOpen=1 //Sirve para cerrar nerdtree cuando abrimos un
 "archivo
