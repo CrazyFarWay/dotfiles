@@ -25,6 +25,7 @@ call plug#begin('~/.vim/plugged')
 
 " Temas
 Plug 'danilo-augusto/vim-afterglow'
+Plug 'morhetz/gruvbox'
 
 " Wiki
 Plug 'vimwiki/vimwiki'
@@ -41,8 +42,10 @@ Plug 'jremmen/vim-ripgrep'
 
 call plug#end()
 
-let g:afterglow_blackout=1
-colorscheme afterglow
+"let g:afterglow_blackout=1
+"colorscheme afterglow
+colorscheme gruvbox
+set background=dark
 
 "No entendi muy bien para que sirve, es algo sobre git
 if executable('rg')
