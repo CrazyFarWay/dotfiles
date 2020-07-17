@@ -39,6 +39,7 @@ Plug 'kien/ctrlp.vim'
 Plug 'Valloric/youcompleteme'
 Plug 'mbbill/undotree'
 Plug 'jremmen/vim-ripgrep'
+Plug 'ap/vim-css-color'
 
 call plug#end()
 
@@ -81,3 +82,4 @@ nmap <Leader>f <Plug>(easymotion-s2)
 
 nmap <Leader>w :w<CR>
 nmap <Leader>q :q<CR>
+
