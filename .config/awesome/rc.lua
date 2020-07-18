@@ -9,6 +9,7 @@
 local awesome, client, mouse, screen, tag = awesome, client, mouse, screen, tag
 local ipairs, string, os, table, tostring, tonumber, type = ipairs, string, os, table, tostring, tonumber, type
 
+local spotify_shell = require("spotify-shell.spotify-shell")
 local gears         = require("gears")
 local awful         = require("awful")
                       require("awful.autofocus")
@@ -57,7 +58,7 @@ local function run_once(cmd_arr)
     end
 end
 
-run_once({ "alacritty", "unclutter -root" }) -- entries must be separated by commas
+run_once({ "terminal", "unclutter -root" }) -- entries must be separated by commas
 
 -- This function implements the XDG autostart specification
 --[[
@@ -294,6 +295,10 @@ globalkeys = my_table.join(
         {description = "focus previous by index", group = "client"}
     ),
 
+    -- Spotify
+   
+    awful.key({ modkey,        }, "p", function () spotify_shell.launch() end, {description = "spotify shell", group = "music"}),
+
     -- By direction client focus
     awful.key({ modkey }, "j",
         function()
@@ -434,10 +439,10 @@ globalkeys = my_table.join(
               {description = "show weather", group = "widgets"}),
 
     -- Brightness
-    awful.key({ }, "XF86MonBrightnessUp", function () os.execute("xbacklight -inc 10") end,
-              {description = "+10%", group = "hotkeys"}),
-    awful.key({ }, "XF86MonBrightnessDown", function () os.execute("xbacklight -dec 10") end,
-              {description = "-10%", group = "hotkeys"}),
+    awful.key({modkey, }, "y", function () os.execute("xrandr --output HDMI-A-0 --brightness 1") end,
+              {description = "Day brightness configuration", group = "hotkeys"}),
+    awful.key({modkey, }, "t", function () os.execute("xrandr --output HDMI-A-0 --brightness 0.7") end,
+              {description = "Night brightness configuration", group = "hotkeys"}),
 
     -- ALSA volume control
     awful.key({ altkey }, "Up",
@@ -521,10 +526,10 @@ globalkeys = my_table.join(
     awful.key({ modkey }, "b", function () awful.spawn(browser) end,
               {description = "run browser", group = "applications"}),
 
-    awful.key({ modkey, "o" }, "d", function () awful.spawn("firefox --new-window https://frtutneduar-my.sharepoint.com/personal/estebansanchez_alu_frt_utn_edu_ar/_layouts/15/onedrive.aspx") end,
+    awful.key({ modkey, }, "d", function () awful.spawn("firefox --new-window https://frtutneduar-my.sharepoint.com/personal/estebansanchez_alu_frt_utn_edu_ar/_layouts/15/onedrive.aspx") end,
               {description = "run OneDrive (alu.frt.utn.edu.ar) in firefox", group = "web browser shortcuts"}),
 
-    awful.key({ modkey, "o" }, "v", function () awful.spawn("firefox --new-window https://www.overleaf.com/project") end,
+    awful.key({ modkey, }, "v", function () awful.spawn("firefox --new-window https://www.overleaf.com/project") end,
               {description = "run OverLeaf in firefox", group = "web browser shortcuts"}),
 
     awful.key({ modkey }, "a", function () awful.spawn(gui_editor) end,
@@ -586,8 +591,8 @@ clientkeys = my_table.join(
               {description = "move to master", group = "client"}),
     awful.key({ modkey,           }, "o",      function (c) c:move_to_screen()               end,
               {description = "move to screen", group = "client"}),
-    awful.key({ modkey,           }, "t",      function (c) c.ontop = not c.ontop            end,
-              {description = "toggle keep on top", group = "client"}),
+ --   awful.key({ modkey,           }, "t",      function (c) c.ontop = not c.ontop            end,
+ --             {description = "toggle keep on top", group = "client"}),
     awful.key({ modkey,           }, "n",
         function (c)
             -- The client currently has the input focus, so it cannot be

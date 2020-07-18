@@ -96,7 +96,7 @@ local markup = lain.util.markup
 -- Textclock
 os.setlocale(os.getenv("LANG")) -- to localize the clock
 local clockicon = wibox.widget.imagebox(theme.widget_clock)
-local mytextclock = wibox.widget.textclock(markup("#04f4be", "%A %d %B ") .. markup("#ab7367", ">") .. markup("#04f4be", " %H:%M "))
+local mytextclock = wibox.widget.textclock(markup("#04f4be", "%A %d %B ") .. markup("#FFFFFF", ">") .. markup("#04f4be", " %H:%M "))
 mytextclock.font = theme.font
 
 -- Calendar
