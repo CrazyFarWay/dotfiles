@@ -19,13 +19,15 @@ set undodir=~/.vim/undodir "Direccion del undofile
 set undofile "Para establecer un archivo personalizado donde guardamos los undo
 set incsearch "Para que mientras buscas se van resaltando las cosas
 set termguicolors
+"set enconding=UTF-8 "Para vim solamente, neovim ya utiliza utf-8 predeterminado
 
 
 call plug#begin('~/.vim/plugged')
 
-" Temas
+" Personalizacion
 Plug 'danilo-augusto/vim-afterglow'
 Plug 'morhetz/gruvbox'
+Plug 'ryanoasis/vim-devicons'
 
 " Wiki
 Plug 'vimwiki/vimwiki'

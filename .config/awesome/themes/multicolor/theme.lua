@@ -17,7 +17,7 @@ local my_table = awful.util.table or gears.table -- 4.{0,1} compatibility
 local theme                                     = {}
 theme.confdir                                   = os.getenv("HOME") .. "/.config/awesome/themes/multicolor"
 theme.wallpaper                                 = theme.confdir .. "/wall.png"
-theme.font                                      = "Terminus 8"
+theme.font                                      = "Hack 8"
 theme.menu_bg_normal                            = "#000000"
 theme.menu_bg_focus                             = "#000000"
 theme.bg_normal                                 = "#18293e"
@@ -27,7 +27,7 @@ theme.fg_normal                                 = "#aaaaaa"
 theme.fg_focus                                  = "#FFFFFF"
 theme.fg_urgent                                 = "#af1d18"
 theme.fg_minimize                               = "#ffffff"
-theme.border_width                              = dpi(1)
+theme.border_width                              = dpi(2)
 theme.border_normal                             = "#18293e"
 theme.border_focus                              = "#04f4be"
 theme.border_marked                             = "#3ca4d8"
@@ -50,7 +50,8 @@ theme.widget_netdown                            = theme.confdir .. "/icons/net_d
 theme.widget_netup                              = theme.confdir .. "/icons/net_up.png"
 theme.widget_mail                               = theme.confdir .. "/icons/mail.png"
 theme.widget_batt                               = theme.confdir .. "/icons/bat.png"
-theme.widget_clock                              = theme.confdir .. "/icons/clock.png"
+theme.widget_clock                              = theme.confdir .. "/icons/clock2.png"
+theme.widget_calendar                           = theme.confdir .. "/icons/cal.png"
 theme.widget_vol                                = theme.confdir .. "/icons/spkr.png"
 theme.taglist_squares_sel                       = theme.confdir .. "/icons/square_a.png"
 theme.taglist_squares_unsel                     = theme.confdir .. "/icons/square_b.png"
@@ -96,14 +97,15 @@ local markup = lain.util.markup
 -- Textclock
 os.setlocale(os.getenv("LANG")) -- to localize the clock
 local clockicon = wibox.widget.imagebox(theme.widget_clock)
-local mytextclock = wibox.widget.textclock(markup("#04f4be", "%A %d %B ") .. markup("#FFFFFF", ">") .. markup("#04f4be", " %H:%M "))
+local calendaricon = wibox.widget.imagebox(theme.widget_calendar)
+local mytextclock = wibox.widget.textclock(markup("#04f4be", "  ") .. markup("#FFFFFF", " %H:%M ") .. markup("#04f4be", "  ") .. markup("#FFFFFF", "%A %d %B "))
 mytextclock.font = theme.font
 
 -- Calendar
 theme.cal = lain.widget.cal({
     attach_to = { mytextclock },
     notification_preset = {
-        font = "Terminus 10",
+        font = "Inconsolata",
         fg   = theme.fg_normal,
         bg   = theme.bg_normal
     }
@@ -113,7 +115,7 @@ theme.cal = lain.widget.cal({
 local weathericon = wibox.widget.imagebox(theme.widget_weather)
 theme.weather = lain.widget.weather({
     city_id = 2643743, -- placeholder (London)
-    notification_preset = { font = "Terminus 10", fg = theme.fg_normal },
+    notification_preset = { font = "Inconsolata", fg = theme.fg_normal },
     weather_na_markup = markup.fontfg(theme.font, "#eca4c4", "N/A "),
     settings = function()
         descr = weather_now["weather"][1]["description"]:lower()
@@ -317,11 +319,11 @@ function theme.at_screen_connect(s)
             --theme.fs.widget,
             --weathericon,
             --theme.weather.widget,
-            tempicon,
-            temp.widget,
+            --tempicon,
+            --temp.widget,
             --baticon,
             --bat.widget,
-            clockicon,
+            --clockicon,
             mytextclock,
         },
     }
