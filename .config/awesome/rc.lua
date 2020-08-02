@@ -790,6 +790,7 @@ client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_n
 
 -- autostart
 awful.spawn.with_shell("compton")
+awful.spawn.with_shell("rclone --vfs-cache-mode writes mount onedrive: ~/onedrive")
 awful.spawn.with_shell("nitrogen --random /home/crazyfarway/Documentos/wallpapers/cyberpunks/ --set-zoom-fill")
 
 --gaps
