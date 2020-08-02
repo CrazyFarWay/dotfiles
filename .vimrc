@@ -50,6 +50,9 @@ call plug#end()
 colorscheme gruvbox
 set background=dark
 
+" Para poner background transparente
+hi Normal guibg=NONE ctermbg=NONE
+
 "No entendi muy bien para que sirve, es algo sobre git
 if executable('rg')
   let g:rg_derive_root='true'
@@ -85,3 +88,5 @@ nmap <Leader>f <Plug>(easymotion-s2)
 nmap <Leader>w :w<CR>
 nmap <Leader>q :q<CR>
 
+vnoremap <C-c> "*y :let @+=@*<CR>
+map <C-v> "+p

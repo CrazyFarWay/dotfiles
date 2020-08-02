@@ -101,17 +101,17 @@ font:
     #family: Ligconsolata
     #style: Bold
 
- #bold:
- #   family: "Hack"
- #   style: Bold
+  bold:
+    family: Inconsolata
+    style: Bold
 
- #italic:
- #   family: "Hack"
- #   style: Italic
+  italic:
+    family: Inconsolata
+    style: Italic
 
- #bold_italic:
- #   family: "Hack"
- #   style: Bold Italic
+  bold_italic:
+    family: Inconsolata
+    style: Bold Italic
     
   # Point size
   size: 3.5
@@ -187,13 +187,15 @@ colors:
     # hard contrast: background = '#1d2021'
     background: '#070c12'
     # soft contrast: background = '#32302f'
-    foreground: '#ebdbb2'
+    #foreground: '#ebdbb2'
+    foreground: '#FFFFFF'
 
   # Normal colors
   normal:
     black:   '#282828'
     red:     '#04f4be'
-    green:   '#bfff00'
+    #green:   '#bfff00'
+    green:   '#dba8ff'
     yellow:  '#d79921'
     blue:    '#04f4be'
     magenta: '#b16286'
@@ -207,8 +209,9 @@ colors:
     green:   '#b8bb26'
     yellow:  '#fabd2f'
     blue:    '#83a598'
-    magenta: '#d3869b'
-    cyan:    '#8ec07c'
+    magenta: '#dba8ff'
+    #cyan:    '#8ec07c'
+    cyan:    '#bfff00'
     white:   '#ebdbb2'
 # Colors (Tomorrow Night Bright)
 #colors:
@@ -318,7 +321,7 @@ colors:
 #
 # Window opacity as a floating point number from `0.0` to `1.0`.
 # The value `0.0` is completely transparent and `1.0` is opaque.
-background_opacity: 0.8
+background_opacity: 0.4
 
 selection:
   #semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"

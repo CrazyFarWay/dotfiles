@@ -255,9 +255,8 @@ root.buttons(my_table.join(
 
 -- {{{ Key bindings
 globalkeys = my_table.join(
-    -- Take a screenshot
-    -- https://github.com/lcpz/dots/blob/master/bin/screenshot
-    awful.key({ altkey }, "p", function() os.execute("screenshot") end,
+    awful.key({ altkey }, "p", function ()
+	    awful.util.spawn("xfce4-screenshooter") end,
               {description = "take a screenshot", group = "hotkeys"}),
 
     -- X screen locker
@@ -373,10 +372,10 @@ globalkeys = my_table.join(
     --    {description = "toggle wibox", group = "awesome"}),
 
     -- On the fly useless gaps change
-    --awful.key({ altkey, "Control" }, "+", function () lain.util.useless_gaps_resize(1) end,
-    --          {description = "increment useless gaps", group = "tag"}),
-    --awful.key({ altkey, "Control" }, "-", function () lain.util.useless_gaps_resize(-1) end,
-    --          {description = "decrement useless gaps", group = "tag"}),
+    awful.key({ altkey, }, "+", function () lain.util.useless_gaps_resize(1) end,
+              {description = "increment useless gaps", group = "tag"}),
+    awful.key({ altkey, }, "-", function () lain.util.useless_gaps_resize(-1) end,
+              {description = "decrement useless gaps", group = "tag"}),
 
     -- Dynamic tagging
     awful.key({ modkey, "Shift" }, "n", function () lain.util.add_tag() end,
@@ -558,7 +557,7 @@ globalkeys = my_table.join(
     --]]
     -- Prompt
     awful.key({ modkey }, "r", function ()
-	    awful.util.spawn("dmenu_run") end,
+	    awful.util.spawn("dmenu_run -fn Hack-9") end,
               {description = "run prompt", group = "launcher"}),
 
     awful.key({ modkey }, "x",
@@ -794,6 +793,6 @@ awful.spawn.with_shell("compton")
 awful.spawn.with_shell("nitrogen --random /home/crazyfarway/Documentos/wallpapers/cyberpunks/ --set-zoom-fill")
 
 --gaps
-beautiful.useless_gap = 4
+beautiful.useless_gap = 8
 
 
