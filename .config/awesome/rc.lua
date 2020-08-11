@@ -442,6 +442,10 @@ globalkeys = my_table.join(
               {description = "Day brightness configuration", group = "hotkeys"}),
     awful.key({modkey, }, "t", function () os.execute("xrandr --output HDMI-A-0 --brightness 0.7") end,
               {description = "Night brightness configuration", group = "hotkeys"}),
+    awful.key({modkey, }, "+", function () os.execute("xbacklight -inc 10") end,
+              {description = "Increment brightness in %10", group = "hotkeys"}),
+    awful.key({modkey, }, "-", function () os.execute("xbacklight -dec 10") end,
+              {description = "Decrement brightness in %10", group = "hotkeys"}),
 
     -- ALSA volume control
 --    awful.key({ altkey }, "Up",
