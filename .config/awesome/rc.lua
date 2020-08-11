@@ -802,5 +802,3 @@ awful.spawn.with_shell("nm-applet")
 
 --gaps
 beautiful.useless_gap = 8
-
-
