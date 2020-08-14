@@ -1,0 +1,146 @@
+* CPU scheduling
+* Process scheduling vs thread scheduling
+* The objective of multiprogramming
+* Process execution consist of a cycle of CPU execution
+  - CPU burst
+  - I/O burst
+* Queue types in CPU scheduling
+* Circumstances of CPU scheduling
+  - When a process switches from the running state to the waiting state
+  - When a process switches from the running state to the ready state
+  - When a process switches from the waiting state to the ready state
+  - When a process terminates
+* Nonpreemptive or cooperative scheduling vs Preemptive scheduling
+* Nonpreemptive kernel vs preemptive kernel
+* Dispatcher
+  - Switching context from one process to another
+  - Switching to user mode
+  - Jumping to the proper location in the user program to resume that program
+* Dispatch latency
+* Scheduling criteria
+  - CPU utilization
+  - Throughput
+  - Turnaround time
+  - Waiting time
+  - Response time
+* Scheduling algorithms
+  - First-Come, First-Served Scheduling (FCFS)
+    * Convoy effect
+    * Nonpreemptive
+  - Shortest-Job-First Scheduling (SJF)
+    * Predict length of next CPU burst as exponential average of previous CPU burst
+    * Preemptive or nonpreemptive
+    * Preemptive is called shortest-remaining-time-firs scheduling
+  - Round-Robin Scheduling (RR)
+    * Time quantum or time slice
+    * Preemptive
+  - Priority Scheduling
+    * Priority asociated with process
+    * The priority is the inverse of the next predicted CPU burst
+    * Priorities defined externally vs internally
+    * Preemptive or nonpreemptive
+    * Indefinit blocking or starvation problem
+    * Aging solution
+  - Multilevel Queue Scheduling
+    * Multilevel queue
+    * Foreground process (interactive) vs Background process (batch)
+  - Multilevel Feedback Queue Scheduling
+    * Separate process according to their CPU bursts
+    * Parameters that needs to define
+      - The number of queues
+      - The scheduling algorithm of reach queue
+      - The method used to determine when to upgrade a process to a higher-priority queue
+      - The method used to determine when to demote a process to a lower-priority queue
+      - The method used to determine which queue a process will enter when that process need service
+* Thread Scheduling
+  - Contention Scope
+    * Process contention scope (PCS)
+    * System contention scope (SCS)
+* Multi-Processor Scheduling
+  - Load sharing
+  - Multiprocessor
+  - Asymmetric multiprocessing vs Symmetric multiprocessing (SMP)
+  - Strategies with SMP
+    * All threads may be in a common ready queue (Shared run queue)
+    * Each processor may have its own private queue of threads (Private run queue)
+  - Multicore Processors
+    * Memory stall problem
+    * Hardware threads solution
+    * Chip multithreading (CMT)
+    * Intel hyper-threading
+    * Coarse-grained multithreading vs fine-graine multithreading
+    * Two levels of scheduling on multicore processor
+     - Scheduling decision from the operatin system level
+     - How each core decides which hardware thread to run level
+  - Load Balancing
+    * Push migration
+    * Pull migration
+  - Processor affinity
+    * Soft affinity vs Hard affinity
+  - Heterogeneous Multiprocessing (HMP)
+    * In ARM processors is called big.LITTLE
+* Real-Time CPU Scheduling
+  - Soft real-time systems vs Hard real-time systems
+  - Event latency
+    * Interrupt latency
+    * Dispatch latency
+      - Conflic phase
+	* Preemption of any process running in the kernel
+	* Release by low-priority processes of resources needed by a high-priority process
+  - Priority-Based Scheduling
+    * Process characteristics
+     - Periodic
+     - Fixed processing time
+     - Deadline
+     - Rate is the inverse of period
+    * Admission-control algorithm
+  - Hard real-time system Scheduling Algorithms
+    * Rate-Monotonic Scheduling
+      - Preemptive
+      - Priority policy with period
+    * Earliest-Deadline-First Scheduling (EDF)
+      - Priority policy with deadline
+    * Proportional Share Scheduling
+      - Admission-control policy
+    * POSIX Real-Time Scheduling
+      - Scheduling classes for real-time threads
+	* SCHED_FIFO (FCFS policy)
+	* SCHED_RR (RR policy)
+* Operating-System Examples
+  - Linux Scheduling
+    * Scheduling classes
+      - Default scheduling class (CFS scheduling)
+	* Nice value
+	* Targeted latency
+	* Virtual run time
+      - Real-time scheduling class
+    * Scheduling domain
+  - Windows Scheduling
+    * Priority based thread scheduling
+    * Dispatcher (Scheduling handler)
+    * Priority classes
+      - Variable class
+      - Real-time class
+    * Thread for each class
+    * Idle thread
+    * Foreground process vs background process
+    * User-mode scheduling (UMS)
+    * Fiber (user-mode threads)
+    * Multiprocessor system scheduling with SMT sets
+    * Ideal processor number
+  - Solaris scheduling
+    * Priority based thread scheduling
+    * Thread classes
+* Algorithm Evaluation
+  - Define the criteria 
+  - Evaluate the algorithm under consideration
+  - Analytic evaluation
+    * Deterministic Modeling
+  - Queueing Models
+    * Queueing-network analysis
+    * Little's formula
+  - Simulations
+    * Trace files
+  - Implementation
+    * Regression testing
+  
