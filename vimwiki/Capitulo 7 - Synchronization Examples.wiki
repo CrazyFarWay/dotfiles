@@ -1,0 +1,7 @@
+* Classic Problems of Synchronization
+  - The Bounded-Buffer Problem
+  - The Readers-Writers Problem
+    * Variations of the problem
+      - The first readers-writers problem
+      - The second readers-writers problem
+    
