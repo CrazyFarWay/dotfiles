@@ -61,7 +61,7 @@ font-2 = siji:pixelsize=10;1
 
 modules-left = date
 modules-center = xwindow
-modules-right = ewmh battery
+modules-right = ewmh
 
 tray-position = right
 tray-padding = 3

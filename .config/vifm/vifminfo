@@ -204,27 +204,60 @@ d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sistemas Operativos
 d/run/media
 	..
 0
+d/run
+	media
+11
 d/home/crazyfarway
 	.config
 3
 d/home/crazyfarway/.config
 	awesome
-7
+5
 d/home/crazyfarway/.config/awesome
 	themes
 4
 d/home/crazyfarway/.config
 	awesome
-7
+5
 d/home/crazyfarway
 	.config
 3
-d/home/crazyfarway/.config
-	awesome
-7
-d/home/crazyfarway/.config/awesome
-	rc.lua
-5
+d/home
+	crazyfarway
+1
+d/
+	home
+4
+d/home
+	crazyfarway
+1
+d/home/crazyfarway
+	vimwiki
+13
+d/home/crazyfarway/vimwiki
+	Capitulo 7 - Synchronization Examples.wiki
+3
+d/home/crazyfarway
+	vimwiki
+13
+d/home
+	crazyfarway
+1
+d/
+	home
+4
+d/home
+	crazyfarway
+1
+d/home/crazyfarway
+	vimwiki_html
+14
+d/home/crazyfarway/vimwiki_html
+	style.css
+2
+d/home/crazyfarway
+	vimwiki
+22
 d
 
 # Right window history (oldest to newest):
@@ -368,6 +401,7 @@ pCapitulo 6 - Synchronization Tools.wiki
 # Local filter history (oldest to newest):
 
 # Registers:
+""/home/crazyfarway/.local/share/vifm/Trash/000_vimwiki_html
 
 # Directory stack (oldest to newest):
 
