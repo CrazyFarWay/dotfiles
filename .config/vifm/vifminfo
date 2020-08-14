@@ -7,8 +7,8 @@
 1597171818
 'd
 	/run/media/crazyfarway/CrazyFarWay
-	Fondos de Pantalla
-1597177011
+	$RECYCLE.BIN
+1597415733
 'h
 	/home/crazyfarway/
 	..
@@ -16,13 +16,13 @@
 'u
 	/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
 	Análisis Matemático II
-1597177020
+1597415743
 
 # Bookmarks:
 
 # TUI:
 al
-q1
+q0
 v2
 ov
 m-1
@@ -30,15 +30,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/crazyfarway
-	Documentos
-2
-d/home
-	crazyfarway
-1
-d/
-	usr
-17
 d/usr
 	bin
 1
@@ -48,12 +39,6 @@ d/usr/bin
 d/usr
 	bin
 1
-d/
-	sbin
-13
-d/home/crazyfarway
-	Documentos
-10
 d/home/crazyfarway/Documentos
 	wallpapers
 1
@@ -63,15 +48,6 @@ d/home/crazyfarway/Documentos/wallpapers
 d/home/crazyfarway/Documentos/wallpapers/Variados
 	..
 0
-d/home/crazyfarway
-	Documentos
-12
-d/home
-	crazyfarway
-1
-d/
-	usr
-17
 d/usr
 	share
 8
@@ -90,21 +66,6 @@ d/usr/share/fonts
 d/usr/share/fonts/TTF
 	Aliquam.ttf
 2
-d/home/crazyfarway
-	Documentos
-12
-d/run/media/crazyfarway/CrazyFarWay
-	Fondos de Pantalla
-7
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
-	Sistemas Operativos
-8
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sistemas Operativos
-	trabajosPracticos
-3
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
-	Sintaxis y Semantica de los lenguajes
-7
 d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes
 	materialDeEstudio
 2
@@ -120,72 +81,15 @@ d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de
 d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio/clase17
 	EJEMPLO PORTON  AUTOMATICO SIMPLE CON MEF Y ARDUINO.pdf
 3
-d/run/media
-	..
-0
-d/run
-	media
-10
-d/run/media
-	..
-0
-d/run
-	media
-10
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
-	Sistemas Operativos
-8
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sistemas Operativos
-	trabajosPracticos
-3
-d/home/crazyfarway
-	.config
-3
-d/home/crazyfarway/.config
-	compton
-9
 d/home/crazyfarway/.config/compton
 	..
 0
-d/home/crazyfarway/.config
-	awesome
-8
-d/home/crazyfarway/.config/awesome
-	lain
-2
 d/home/crazyfarway/.config/awesome/lain
 	..
 0
-d/home/crazyfarway/.config/awesome
-	lain
-2
-d/home/crazyfarway/.config/awesome/lain
-	icons
-1
-d/home/crazyfarway/.config/awesome
-	freedesktop
-1
 d/home/crazyfarway/.config/awesome/freedesktop
 	..
 0
-d/home/crazyfarway/.config/awesome
-	scripts
-3
-d/home/crazyfarway/.config/awesome/scripts
-	..
-0
-d/home/crazyfarway/.config/awesome
-	scripts
-3
-d/home/crazyfarway/.config/awesome/scripts
-	picom-toggle.sh
-1
-d/home/crazyfarway/.config/awesome
-	autostart.sh
-6
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
-	Sintaxis y Semantica de los lenguajes
-7
 d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes
 	trabajosPracticos
 3
@@ -216,120 +120,111 @@ d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de
 d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/LAB2_2020_SSL/punto1/mayoresDeEdad
 	proceso.awk
 4
-d/home/crazyfarway
-	.config
-3
-d/home/crazyfarway/.config
-	awesome
-8
-d/home/crazyfarway/.config/awesome
-	scripts
-3
-d/home/crazyfarway/.config
-	awesome
-8
-d/home/crazyfarway/.config/awesome
-	scripts
-3
-d/home/crazyfarway/.config
-	rofi
-31
-d/home/crazyfarway
-	.config
-3
-d/home/crazyfarway/.config
-	awesome
-8
-d/home/crazyfarway/.config/awesome
-	scripts
-3
-d/home/crazyfarway/.config/awesome/scripts
-	picom-toggle.sh
+d/home/crazyfarway/.config/awesome/freedesktop
+	..
+0
+d/home/crazyfarway/.config/awesome/lain
+	icons
 1
-d/home/crazyfarway/.config/awesome
-	freedesktop
+d/home/crazyfarway/.config/awesome/spotify-shell
+	..
+0
+d/home/crazyfarway/.config/awesome/themes
+	..
+0
+d/home/crazyfarway/.config/awesome/spotify-shell
+	..
+0
+d/home/crazyfarway/.config/awesome/lain
+	icons
 1
 d/home/crazyfarway/.config/awesome/freedesktop
 	..
 0
-d/home/crazyfarway/.config/awesome
-	lain
-2
-d/home/crazyfarway/.config/awesome/lain
-	icons
-1
-d/home/crazyfarway/.config/awesome
-	spotify-shell
-3
-d/home/crazyfarway/.config/awesome/spotify-shell
-	..
-0
-d/home/crazyfarway/.config/awesome
-	themes
-4
-d/home/crazyfarway/.config/awesome/themes
-	..
-0
-d/home/crazyfarway/.config/awesome
-	autostart.sh
-5
-d/home/crazyfarway
-	.config
-3
-d/home/crazyfarway/.config
-	awesome
-8
-d/home/crazyfarway/.config/awesome
-	themes
-4
-d/home/crazyfarway/.config/awesome/themes
-	..
-0
-d/home/crazyfarway/.config/awesome
-	spotify-shell
-3
-d/home/crazyfarway/.config/awesome/spotify-shell
-	..
-0
-d/home/crazyfarway/.config/awesome
-	lain
-2
-d/home/crazyfarway/.config/awesome/lain
-	icons
-1
-d/home/crazyfarway/.config/awesome
-	freedesktop
-1
-d/home/crazyfarway/.config/awesome/freedesktop
-	..
-0
-d/home/crazyfarway/.config/awesome
-	freedesktop
-1
-d/home/crazyfarway/.config
-	compton
-9
 d/home/crazyfarway/.config/compton
 	..
 0
-d/home/crazyfarway/.config
-	gtk-3.0
-16
+d/home/crazyfarway/.config/awesome
+	freedesktop
+1
+d/home/crazyfarway/.config/vifm
+	vifmimgpdfpage
+5
+d/home/crazyfarway/vimwiki
+	Capitulo 6 - Synchronization Tools.wiki
+2
 d/home/crazyfarway
 	.config
 3
 d/home/crazyfarway/.config
-	pamac
-26
+	alacritty
+4
 d/home/crazyfarway
-	vimwiki_html
-25
-d/home/crazyfarway/vimwiki_html
-	style.css
+	.config
+3
+d/home/crazyfarway/.config
+	vifm
+30
+d/home/crazyfarway
+	.config
+3
+d/home
+	crazyfarway
+1
+d/
+	run
+12
+d/run
+	media
+11
+d/run/media
+	crazyfarway
+1
+d/run/media/crazyfarway
+	CrazyFarWay
+1
+d/run/media/crazyfarway/CrazyFarWay
+	Universidad
+13
+d/run/media/crazyfarway/CrazyFarWay/Universidad
+	2do Año
 2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Análisis Matemático II
+2
+d/run/media/crazyfarway/CrazyFarWay
+	$RECYCLE.BIN
+3
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Sistemas Operativos
+8
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sistemas Operativos
+	trabajosPracticos
+3
+d/run/media
+	..
+0
 d/home/crazyfarway
-	.Xauthority
-25
+	.config
+3
+d/home/crazyfarway/.config
+	awesome
+7
+d/home/crazyfarway/.config/awesome
+	themes
+4
+d/home/crazyfarway/.config
+	awesome
+7
+d/home/crazyfarway
+	.config
+3
+d/home/crazyfarway/.config
+	awesome
+7
+d/home/crazyfarway/.config/awesome
+	rc.lua
+5
 d
 
 # Right window history (oldest to newest):
@@ -341,9 +236,6 @@ D/home/crazyfarway/Documentos/wallpapers
 1
 D/home/crazyfarway/Documentos/wallpapers/Oscuros
 	imJjy2NHc.jpg
-2
-D/home/crazyfarway
-	Documentos
 2
 D/home/crazyfarway/Documentos
 	wallpapers
@@ -372,9 +264,6 @@ D/home/crazyfarway/Documentos/wallpapers
 D/home/crazyfarway/Documentos
 	wallpapers
 1
-D/home/crazyfarway
-	Documentos
-2
 D/home
 	crazyfarway
 1
@@ -447,24 +336,15 @@ D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
 D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sistemas Operativos
 	Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts (2018, Wiley).pdf
 4
-D/home/crazyfarway
-	Descargas
-1
 D/home/crazyfarway/Descargas
 	..
 0
-D/home/crazyfarway
-	Documentos
-2
 D/home/crazyfarway/Documentos
 	wallpapers
 1
 D/home/crazyfarway
-	Documentos
-2
-D/home/crazyfarway/Documentos
-	scripts
-1
+	..
+0
 D
 
 # Command line history (oldest to newest):
@@ -476,18 +356,28 @@ D
 /SF
 /font
 /vimwiki
+/awesom
+/comp
+/compyon
 
 # Prompt history (oldest to newest):
 pmayoresDeEdad
+pCapitulo 5 - CPU Scheduling.wiki
+pCapitulo 6 - Synchronization Tools.wiki
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/crazyfarway/.local/share/vifm/Trash/000_vimwiki_html
 
 # Directory stack (oldest to newest):
 
 # Trash content:
+t/home/crazyfarway/.local/share/vifm/Trash/000_awesome
+	/home/crazyfarway/.config/awesome
+t/home/crazyfarway/.local/share/vifm/Trash/000_vifm-help.txt
+	/home/crazyfarway/.config/vifm/vifm-help.txt
+t/home/crazyfarway/.local/share/vifm/Trash/000_vifminfo
+	/home/crazyfarway/.config/vifm/vifminfo
 t/run/media/crazyfarway/CrazyFarWay/.vifm-Trash-1000/002_salida.txt
 	/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/LAB2_2020_SSL/punto1/explicacionProfes/salida.txt
 t/run/media/crazyfarway/CrazyFarWay/.vifm-Trash-1000/002_comando.sh
