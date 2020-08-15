@@ -19,6 +19,7 @@ set undodir=~/.vim/undodir "Direccion del undofile
 set undofile "Para establecer un archivo personalizado donde guardamos los undo
 set incsearch "Para que mientras buscas se van resaltando las cosas
 set termguicolors
+set wildmenu
 "set enconding=UTF-8 "Para vim solamente, neovim ya utiliza utf-8 predeterminado
 
 
@@ -26,8 +27,8 @@ call plug#begin('~/.vim/plugged')
 
 " Personalizacion
 Plug 'danilo-augusto/vim-afterglow'
-Plug 'morhetz/gruvbox'
 Plug 'ryanoasis/vim-devicons'
+Plug 'ajh17/spacegray.vim'
 
 " Wiki
 Plug 'vimwiki/vimwiki'
@@ -42,16 +43,16 @@ Plug 'Valloric/youcompleteme'
 Plug 'mbbill/undotree'
 Plug 'jremmen/vim-ripgrep'
 Plug 'ap/vim-css-color'
+Plug 'sts10/vim-pink-moon'
 
 call plug#end()
 
-"let g:afterglow_blackout=1
-"colorscheme afterglow
-colorscheme gruvbox
 set background=dark
+"let g:afterglow_blackout=1
+colorscheme spacegray
 
 " Para poner background transparente
-hi Normal guibg=NONE ctermbg=NONE
+"hi Normal guibg=NONE ctermbg=NONE
 
 "No entendi muy bien para que sirve, es algo sobre git
 if executable('rg')

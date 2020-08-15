@@ -26,6 +26,7 @@ foreground-alt = #000
 primary = #ffb52a
 secondary = #e60053
 alert = #bd2c40
+grisOscuro = #111314
 morado = #35003d
 amarillo = #fffa00
 
@@ -34,13 +35,13 @@ amarillo = #fffa00
 width = 50%
 height = 12
 offset-x = 25%
-offset-y = 5
+offset-y = 2
 radius = 5.0
 fixed-center = true
 bottom = true
 
 background-0 = ${colors.background}
-background-1 = ${colors.morado}
+background-1 = ${colors.grisOscuro}
 foreground = ${colors.amarillo}
 
 line-size = 0
@@ -59,22 +60,22 @@ font-0 = Arial:pixelsize=8;0
 font-1 = unifont:fontformat=truetype:size=8:antialias=true;0
 font-2 = siji:pixelsize=10;1
 
-modules-left = date
+modules-left = 
 modules-center = xwindow
-modules-right = ewmh
+modules-right = ewmh date
 
-tray-position = right
+tray-position = left
 tray-padding = 3
-;tray-background = #00000
+tray-background = ${colors.grisOscuro}
 tray-maxsize = 16
-tray-scale = 1.2
+tray-scale = 1
 
 wm-restack = bspwm
 ;wm-restack = i3
 
 enable-ipc = true
 
-;override-redirect = true
+override-redirect = true
 
 ;scroll-up = bspwm-desknext
 ;scroll-down = bspwm-deskprev
@@ -275,7 +276,7 @@ format-prefix =
 format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #0a6cf5
 
-label = %date%  \\  %time%
+label = %time%   ||   %date%
 
 [module/pulseaudio]
 type = internal/pulseaudio

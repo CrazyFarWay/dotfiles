@@ -22,7 +22,7 @@
 
 # TUI:
 al
-q0
+q1
 v2
 ov
 m-1
@@ -30,237 +30,321 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/usr
-	bin
+d/usr/share
+	vim
+51
+d/usr/share/vim
+	vimfiles
+2
+d/usr/share/vim/vimfiles
+	plugin
+4
+d/usr/share/vim/vimfiles/plugin
+	..
+0
+d/usr/share/vim/vimfiles
+	plugin
+4
+d/usr/share/vim/vimfiles/plugin
+	fzf.vim
 1
-d/usr/bin
-	a2x
-22
-d/usr
-	bin
+d/usr/share/vim/vimfiles
+	ftdetect
 1
-d/home/crazyfarway/Documentos
-	wallpapers
+d/usr/share/vim/vimfiles/ftdetect
+	..
+0
+d/usr/share/vim/vimfiles
+	ftplugin
+2
+d/usr/share/vim/vimfiles/ftplugin
+	..
+0
+d/usr/share/vim/vimfiles
+	ftdetect
 1
-d/home/crazyfarway/Documentos/wallpapers
-	Variados
+d/usr/share/vim/vimfiles/ftdetect
+	..
+0
+d/usr/share/vim/vimfiles
+	ftplugin
+2
+d/usr/share/vim/vimfiles/ftplugin
+	..
+0
+d/usr/share/vim/vimfiles
+	indent
 3
-d/home/crazyfarway/Documentos/wallpapers/Variados
+d/usr/share/vim/vimfiles/indent
+	..
+0
+d/usr/share/vim/vimfiles
+	plugin
+4
+d/usr/share/vim/vimfiles/plugin
+	fzf.vim
+1
+d/usr/share/vim/vimfiles
+	syntax
+5
+d/usr/share/vim/vimfiles/syntax
+	conkyrc.vim
+3
+d/usr/share/vim/vimfiles
+	ftdetect
+1
+d/usr/share/vim/vimfiles/ftdetect
+	conkyrc.vim
+2
+d/usr/share/vim/vimfiles
+	ftdetect
+1
+d/usr/share/vim/vimfiles/ftdetect
+	PKGBUILD.vim
+1
+d/usr/share/vim/vimfiles
+	ftdetect
+1
+d/usr/share/vim
+	vim82
+1
+d/usr/share/vim/vim82
+	vimrc_example.vim
+34
+d/home/crazyfarway
+	.config
+3
+d/home/crazyfarway/.config
+	nvim
+24
+d/home/crazyfarway/.config/nvim
+	init.vim
+1
+d/home/crazyfarway/.config
+	nvim
+24
+d/home/crazyfarway
+	.vim
+11
+d/home/crazyfarway/.vim
+	autoload
+1
+d/home/crazyfarway
+	.config
+3
+d/home/crazyfarway/.config
+	nvim
+24
+d/home/crazyfarway/.config/nvim
+	init.vim
+1
+d/home/crazyfarway
+	Documentos
+13
+d/home/crazyfarway/Documentos
+	picom.conf
+3
+d/home/crazyfarway
+	Documentos
+13
+d/home/crazyfarway/Documentos
+	picom.conf
+3
+d/home/crazyfarway
+	Documentos
+13
+d/home
+	crazyfarway
+1
+d/
+	usr
+18
+d/usr
+	share
+8
+d/usr/share
+	vim
+51
+d/usr/share/vim
+	vim82
+1
+d/usr/share/vim/vim82
+	defaults.vim
+18
+d/home/crazyfarway
+	Documentos
+13
+d/home
+	crazyfarway
+1
+d/
+	usr
+18
+d/usr
+	share
+8
+d/usr/share
+	vifm
+50
+d/usr
+	sbin
+7
+d/
+	run
+13
+d/run
+	user
+23
+d/run/user
+	1000
+1
+d/run/user/1000
+	..
+0
+d/run/user
+	1000
+1
+d/run
+	user
+23
+d/
+	etc
+4
+d/etc
+	xdg
+51
+d/etc/xdg
+	xfce4
+12
+d/home/crazyfarway
+	.config
+3
+d/home/crazyfarway/.config
+	awesome
+8
+d/home/crazyfarway/.config/awesome
+	themes
+4
+d/home/crazyfarway/.config/awesome/themes
+	multicolor
+2
+d/home/crazyfarway/.config/awesome/themes/multicolor
+	theme.lua
+2
+d/home/crazyfarway/.config/awesome/themes
+	multicolor
+2
+d/home/crazyfarway
+	.config
+3
+d/home
+	crazyfarway
+1
+d/
+	usr
+18
+d/usr
+	sbin
+7
+d/usr/sbin
 	..
 0
 d/usr
 	share
 8
 d/usr/share
-	fonts
-51
-d/usr/share/fonts
-	TTF
-2
-d/usr/share/fonts/TTF
-	..
-0
-d/usr/share/fonts
-	TTF
-2
-d/usr/share/fonts/TTF
-	Aliquam.ttf
-2
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes
-	materialDeEstudio
-2
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio
-	clase2
-2
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes
-	materialDeEstudio
-2
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio
-	clase17
-16
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio/clase17
-	EJEMPLO PORTON  AUTOMATICO SIMPLE CON MEF Y ARDUINO.pdf
-3
-d/home/crazyfarway/.config/compton
-	..
-0
-d/home/crazyfarway/.config/awesome/lain
-	..
-0
-d/home/crazyfarway/.config/awesome/freedesktop
-	..
-0
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes
-	trabajosPracticos
-3
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos
-	editables
-1
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables
-	LAB1_2020_SSL
-1
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/LAB1_2020_SSL
-	..
-0
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables
-	LAB2_2020_SSL
-2
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/LAB2_2020_SSL
-	punto1
-1
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/LAB2_2020_SSL/punto1
-	explicacionProfes
-1
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/LAB2_2020_SSL/punto1/explicacionProfes
-	datos.csv
-1
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/LAB2_2020_SSL/punto1
-	mayoresDeEdad
-2
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/LAB2_2020_SSL/punto1/mayoresDeEdad
-	proceso.awk
-4
-d/home/crazyfarway/.config/awesome/freedesktop
-	..
-0
-d/home/crazyfarway/.config/awesome/lain
-	icons
-1
-d/home/crazyfarway/.config/awesome/spotify-shell
-	..
-0
-d/home/crazyfarway/.config/awesome/themes
-	..
-0
-d/home/crazyfarway/.config/awesome/spotify-shell
-	..
-0
-d/home/crazyfarway/.config/awesome/lain
-	icons
-1
-d/home/crazyfarway/.config/awesome/freedesktop
-	..
-0
-d/home/crazyfarway/.config/compton
-	..
-0
-d/home/crazyfarway/.config/awesome
-	freedesktop
-1
-d/home/crazyfarway/.config/vifm
-	vifmimgpdfpage
-5
-d/home/crazyfarway/vimwiki
-	Capitulo 6 - Synchronization Tools.wiki
-2
-d/home/crazyfarway
-	.config
-3
-d/home/crazyfarway/.config
-	alacritty
-4
-d/home/crazyfarway
-	.config
-3
-d/home/crazyfarway/.config
-	vifm
-30
-d/home/crazyfarway
-	.config
-3
-d/home
-	crazyfarway
-1
-d/
-	run
-12
-d/run
-	media
-11
-d/run/media
-	crazyfarway
-1
-d/run/media/crazyfarway
-	CrazyFarWay
-1
-d/run/media/crazyfarway/CrazyFarWay
-	Universidad
-13
-d/run/media/crazyfarway/CrazyFarWay/Universidad
-	2do Año
-2
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
-	Análisis Matemático II
-2
-d/run/media/crazyfarway/CrazyFarWay
-	$RECYCLE.BIN
-3
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
-	Sistemas Operativos
-8
-d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sistemas Operativos
-	trabajosPracticos
-3
-d/run/media
-	..
-0
-d/run
-	media
-11
-d/home/crazyfarway
-	.config
-3
-d/home/crazyfarway/.config
 	awesome
-5
-d/home/crazyfarway/.config/awesome
+4
+d/usr/share/awesome
 	themes
-4
-d/home/crazyfarway/.config
-	awesome
-5
-d/home/crazyfarway
-	.config
 3
-d/home
-	crazyfarway
+d/usr/share/awesome/themes
+	default
 1
-d/
-	home
-4
-d/home
-	crazyfarway
+d/usr/share/awesome
+	icons
 1
-d/home/crazyfarway
-	vimwiki
-13
-d/home/crazyfarway/vimwiki
-	Capitulo 7 - Synchronization Examples.wiki
-3
-d/home/crazyfarway
-	vimwiki
-13
-d/home
-	crazyfarway
-1
-d/
-	home
-4
-d/home
-	crazyfarway
-1
-d/home/crazyfarway
-	vimwiki_html
-14
-d/home/crazyfarway/vimwiki_html
-	style.css
+d/usr/share/awesome/icons
+	..
+0
+d/usr/share/awesome
+	lib
 2
-d/home/crazyfarway
-	vimwiki
-22
+d/usr/share/awesome/lib
+	wibox
+6
+d/usr/share/awesome
+	lib
+2
+d/usr/share
+	awesome
+4
+d/usr
+	share
+8
+d/usr/share
+	doc
+28
+d/usr/share/doc
+	awesome
+23
+d/usr/share/doc/awesome
+	doc
+1
+d/usr/share/doc/awesome/doc
+	sample files
+5
+d/usr/share/doc/awesome/doc/sample files
+	rc.lua.html
+1
+d/usr/share/doc/awesome/doc
+	documentation
+2
+d/usr/share/doc/awesome/doc/documentation
+	..
+0
+d/usr/share/doc/awesome/doc
+	documentation
+2
+d/usr/share/doc/awesome
+	doc
+1
+d/usr/share/doc
+	awesome
+20
+d/usr/share
+	doc
+20
+d/usr
+	share
+8
+d/
+	etc
+4
+d/etc
+	xdg
+20
+d/etc/xdg
+	awesome
+3
+d/etc/xdg/awesome
+	rc.lua
+1
 d
 
 # Right window history (oldest to newest):
+D/home/crazyfarway/Documentos/wallpapers/paisajes
+	road_trees_top_view_119030_3840x2160.jpg
+29
+D/home/crazyfarway/Documentos/wallpapers/cyberpunks
+	descarga.jpeg
+22
+D/home/crazyfarway/.config
+	vifm
+35
+D/home/crazyfarway/.config/vifm
+	vifmrc
+7
 D/home/crazyfarway/Documentos
 	wallpapers
 1
@@ -389,9 +473,16 @@ D
 /SF
 /font
 /vimwiki
-/awesom
 /comp
 /compyon
+/vif
+/vim
+/compton
+/xdg
+/awesome
+/awesom
+/doc
+/awe
 
 # Prompt history (oldest to newest):
 pmayoresDeEdad
@@ -401,7 +492,7 @@ pCapitulo 6 - Synchronization Tools.wiki
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/crazyfarway/.local/share/vifm/Trash/000_vimwiki_html
+""/home/crazyfarway/.local/share/vifm/Trash/000_programa.cpp
 
 # Directory stack (oldest to newest):
 
@@ -426,6 +517,10 @@ t/home/crazyfarway/.local/share/vifm/Trash/000_compton
 	/home/crazyfarway/compton
 t/home/crazyfarway/.local/share/vifm/Trash/000_vimwiki_html
 	/home/crazyfarway/vimwiki_html
+t/home/crazyfarway/.local/share/vifm/Trash/000_Oscuros
+	/home/crazyfarway/Documentos/wallpapers/Oscuros
+t/home/crazyfarway/.local/share/vifm/Trash/000_programa.cpp
+	/home/crazyfarway/Documentos/programa.cpp
 
 # State:
 f
