@@ -1,3 +1,0 @@
-[[Capitulo 5 - CPU Scheduling]]
-[[Capitulo 6 - Synchronization Tools]]
-[[Capitulo 7 - Synchronization Examples]]

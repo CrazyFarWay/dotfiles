@@ -22,7 +22,6 @@ set termguicolors
 set wildmenu
 "set enconding=UTF-8 "Para vim solamente, neovim ya utiliza utf-8 predeterminado
 
-
 call plug#begin('~/.vim/plugged')
 
 " Personalizacion
@@ -39,11 +38,15 @@ Plug 'christoomey/vim-tmux-navigator'
 Plug 'tpope/vim-fugitive'
 Plug 'vim-utils/vim-man'
 Plug 'kien/ctrlp.vim'
-Plug 'Valloric/youcompleteme'
+"Plug 'Valloric/youcompleteme'
+"Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'mbbill/undotree'
 Plug 'jremmen/vim-ripgrep'
 Plug 'ap/vim-css-color'
 Plug 'sts10/vim-pink-moon'
+
+" GAMES
+Plug 'ThePrimeagen/vim-be-good', {'do': './install.sh'}
 
 call plug#end()
 
@@ -80,8 +83,8 @@ nnoremap <silent> <leader>+ :vertical resize +5<CR>
 nnoremap <silent> <leader>- :vertical resize -5<CR>
 
 "You complete me
-nnoremap <silent> <leader>gd :YcmCompleter GoTo<CR>
-nnoremap <silent> <leader>gf :YcmCompleter FixIt<CR>
+"nnoremap <silent> <leader>gd :YcmCompleter GoTo<CR>
+"nnoremap <silent> <leader>gf :YcmCompleter FixIt<CR>
 
 " Reconfiguracion de teclas
 nmap <Leader>f <Plug>(easymotion-s2)
@@ -91,3 +94,24 @@ nmap <Leader>q :q<CR>
 
 vnoremap <C-c> "*y :let @+=@*<CR>
 map <C-v> "+p
+
+"COC keybindings
+
+"inoremap <silent><expr> <TAB>
+"  \ pumvisible() ? coc#_select_confirm() :
+"  \ coc#expandableOrJumpable() ?
+"  \ "\<C-r>=coc#rpc#request('doKeymap', ['snippets-expand-jump',''])\<CR>" :
+"  \ <SID>check_back_space() ? "\<TAB>" :
+"  \ coc#refresh()
+"
+"function! s:check_back_space() abort
+"  let col = col('.') - 1
+"  return !col || getline('.')[col - 1]  =~# '\s'
+"endfunction
+"
+"let g:coc_snippet_next = '<tab>'
+"
+"nmap <silent> gd <Plug>(coc-definition)
+"nmap <silent> gy <Plug>(coc-type-definition)
+"nmap <silent> gi <Plug>(coc-implementation)
+"nmap <silent> gr <Plug>(coc-references)

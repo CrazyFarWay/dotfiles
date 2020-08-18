@@ -1,9 +1,0 @@
-= Wiki =
-
-== Universidad ==
-[[Sistemas Operativos]]
-
-== Tutoriales ==
-[[Como usar Vim Wiki]]
-
-
