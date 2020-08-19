@@ -7,12 +7,9 @@ set showcmd "Para mostrar los comandos que ejecutamos
 set ruler "Para mostrar la posicion del cursor
 set encoding=utf-8 "Para usar caracteres latinoamericanos
 set showmatch "Para que muestre el cierre de parentesis, etc. cuando nos posicionamos en el inicial
-set sw=2 "Para que cuando identemos el texto nos reemplace el TAB por 2 espacios
-set relativenumber "Para que muestre numeros relativos
-set laststatus=2 "Para que la barra de abajo siempre sea visible
+set sw=2 "Para que cuando identemos el texto nos reemplace el TAB por 2 espacios set relativenumber "Para que muestre numeros relativos set laststatus=2 "Para que la barra de abajo siempre sea visible
 set noshowmode "Para que no muestre el modo actual
-set noerrorbells "Para que no suene la campanita cuando vas al final e la linea
-"set smartindent "Para que indente lo mejor que pueda
+set noerrorbells "Para que no suene la campanita cuando vas al final e la linea set smartindent "Para que indente lo mejor que pueda
 set noswapfile "Para que no se creen los archivos swap editables
 set nobackup "Para no hacer backup
 set undodir=~/.vim/undodir "Direccion del undofile
@@ -38,6 +35,7 @@ Plug 'christoomey/vim-tmux-navigator'
 Plug 'tpope/vim-fugitive'
 Plug 'vim-utils/vim-man'
 Plug 'kien/ctrlp.vim'
+Plug 'jiangmiao/auto-pairs'
 "Plug 'Valloric/youcompleteme'
 "Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'mbbill/undotree'
@@ -55,7 +53,7 @@ set background=dark
 colorscheme spacegray
 
 " Para poner background transparente
-"hi Normal guibg=NONE ctermbg=NONE
+" hi Normal guibg=NONE ctermbg=NONE
 
 "No entendi muy bien para que sirve, es algo sobre git
 if executable('rg')
@@ -86,32 +84,19 @@ nnoremap <silent> <leader>- :vertical resize -5<CR>
 "nnoremap <silent> <leader>gd :YcmCompleter GoTo<CR>
 "nnoremap <silent> <leader>gf :YcmCompleter FixIt<CR>
 
-" Reconfiguracion de teclas
+" Keybindings
 nmap <Leader>f <Plug>(easymotion-s2)
 
 nmap <Leader>w :w<CR>
 nmap <Leader>q :q<CR>
+nnoremap <M-j>	:resize -2<CR>
+nnoremap <M-k>	:resize +2<CR>
+nnoremap <M-h>	:vertical resize -2<CR>
+nnoremap <M-l>	:vertical resize +2<CR>
+nnoremap <TAB>	:bnext<CR>
+nnoremap <S-TAB>	:bprevious<CR>
+vnoremap < <gv
+vnoremap > >gv
 
 vnoremap <C-c> "*y :let @+=@*<CR>
-map <C-v> "+p
-
-"COC keybindings
-
-"inoremap <silent><expr> <TAB>
-"  \ pumvisible() ? coc#_select_confirm() :
-"  \ coc#expandableOrJumpable() ?
-"  \ "\<C-r>=coc#rpc#request('doKeymap', ['snippets-expand-jump',''])\<CR>" :
-"  \ <SID>check_back_space() ? "\<TAB>" :
-"  \ coc#refresh()
-"
-"function! s:check_back_space() abort
-"  let col = col('.') - 1
-"  return !col || getline('.')[col - 1]  =~# '\s'
-"endfunction
-"
-"let g:coc_snippet_next = '<tab>'
-"
-"nmap <silent> gd <Plug>(coc-definition)
-"nmap <silent> gy <Plug>(coc-type-definition)
-"nmap <silent> gi <Plug>(coc-implementation)
-"nmap <silent> gr <Plug>(coc-references)
+"map <C-v> "+p

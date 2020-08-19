@@ -579,4 +579,4 @@ awful.spawn.with_shell("kmix")
 awful.spawn.with_shell("nm-applet")
 
 --gaps
-beautiful.useless_gap = 11
+beautiful.useless_gap = 3

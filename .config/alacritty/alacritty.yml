@@ -90,16 +90,8 @@ scrolling:
 # Font configuration
 font:
   normal:
-    #Default: Monospace 
-    
-    #family: Cousine 
-    #style: Regular
-    
     family: Inconsolata
-    style: SemiBold
-    
-    #family: Ligconsolata
-    #style: Bold
+    style: Regular
 
   bold:
     family: Inconsolata

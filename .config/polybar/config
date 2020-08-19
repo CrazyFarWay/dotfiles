@@ -35,7 +35,7 @@ amarillo = #fffa00
 width = 50%
 height = 12
 offset-x = 25%
-offset-y = 2
+offset-y = 4
 radius = 5.0
 fixed-center = true
 bottom = true
@@ -65,17 +65,17 @@ modules-center = xwindow
 modules-right = ewmh date
 
 tray-position = left
-tray-padding = 3
+tray-padding = 2
 tray-background = ${colors.grisOscuro}
-tray-maxsize = 16
-tray-scale = 1
+tray-maxsize = 20
+tray-scale = 1.2
 
 wm-restack = bspwm
 ;wm-restack = i3
 
 enable-ipc = true
 
-override-redirect = true
+;override-redirect = true
 
 ;scroll-up = bspwm-desknext
 ;scroll-down = bspwm-deskprev
@@ -423,7 +423,7 @@ screenchange-reload = true
 ;pseudo-transparency = false
 
 [global/wm]
-margin-top = -5
+margin-top = 0
 margin-bottom = 0
 
 ; vim:ft=dosini
