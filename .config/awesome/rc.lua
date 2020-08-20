@@ -577,6 +577,7 @@ awful.spawn.with_shell("nitrogen --random /home/crazyfarway/Documentos/wallpaper
 awful.spawn.with_shell("/home/crazyfarway/.config/polybar/launch.sh")
 awful.spawn.with_shell("kmix")
 awful.spawn.with_shell("nm-applet")
+awful.spawn.with_shell("xfce4-power-manager")
 
 --gaps
 beautiful.useless_gap = 3
