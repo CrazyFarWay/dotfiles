@@ -22,7 +22,7 @@
 
 # TUI:
 al
-q1
+q0
 v2
 ov
 m-1
@@ -30,448 +30,624 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/usr/share
-	vim
-51
-d/usr/share/vim
-	vimfiles
-2
-d/usr/share/vim/vimfiles
-	plugin
-4
-d/usr/share/vim/vimfiles/plugin
-	..
-0
-d/usr/share/vim/vimfiles
-	plugin
-4
-d/usr/share/vim/vimfiles/plugin
-	fzf.vim
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Analisis de Sistemas
 1
-d/usr/share/vim/vimfiles
-	ftdetect
-1
-d/usr/share/vim/vimfiles/ftdetect
-	..
-0
-d/usr/share/vim/vimfiles
-	ftplugin
-2
-d/usr/share/vim/vimfiles/ftplugin
-	..
-0
-d/usr/share/vim/vimfiles
-	ftdetect
-1
-d/usr/share/vim/vimfiles/ftdetect
-	..
-0
-d/usr/share/vim/vimfiles
-	ftplugin
-2
-d/usr/share/vim/vimfiles/ftplugin
-	..
-0
-d/usr/share/vim/vimfiles
-	indent
-3
-d/usr/share/vim/vimfiles/indent
-	..
-0
-d/usr/share/vim/vimfiles
-	plugin
-4
-d/usr/share/vim/vimfiles/plugin
-	fzf.vim
-1
-d/usr/share/vim/vimfiles
-	syntax
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	trabajosPracticos
 5
-d/usr/share/vim/vimfiles/syntax
-	conkyrc.vim
-3
-d/usr/share/vim/vimfiles
-	ftdetect
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajosPracticos
+	Editables
 1
-d/usr/share/vim/vimfiles/ftdetect
-	conkyrc.vim
-2
-d/usr/share/vim/vimfiles
-	ftdetect
-1
-d/usr/share/vim/vimfiles/ftdetect
-	PKGBUILD.vim
-1
-d/usr/share/vim/vimfiles
-	ftdetect
-1
-d/usr/share/vim
-	vim82
-1
-d/usr/share/vim/vim82
-	vimrc_example.vim
-34
-d/home/crazyfarway
-	.config
-3
-d/home/crazyfarway/.config
-	nvim
-24
-d/home/crazyfarway/.config/nvim
-	init.vim
-1
-d/home/crazyfarway/.config
-	nvim
-24
-d/home/crazyfarway
-	.vim
-11
-d/home/crazyfarway/.vim
-	autoload
-1
-d/home/crazyfarway
-	.config
-3
-d/home/crazyfarway/.config
-	nvim
-24
-d/home/crazyfarway/.config/nvim
-	init.vim
-1
-d/home/crazyfarway
-	Documentos
-13
-d/home/crazyfarway/Documentos
-	picom.conf
-3
-d/home/crazyfarway
-	Documentos
-13
-d/home/crazyfarway/Documentos
-	picom.conf
-3
-d/home/crazyfarway
-	Documentos
-13
-d/home
-	crazyfarway
-1
-d/
-	usr
-18
-d/usr
-	share
-8
-d/usr/share
-	vim
-51
-d/usr/share/vim
-	vim82
-1
-d/usr/share/vim/vim82
-	defaults.vim
-18
-d/home/crazyfarway
-	Documentos
-13
-d/home
-	crazyfarway
-1
-d/
-	usr
-18
-d/usr
-	share
-8
-d/usr/share
-	vifm
-50
-d/usr
-	sbin
-7
-d/
-	run
-13
-d/run
-	user
-23
-d/run/user
-	1000
-1
-d/run/user/1000
-	..
-0
-d/run/user
-	1000
-1
-d/run
-	user
-23
-d/
-	etc
-4
-d/etc
-	xdg
-51
-d/etc/xdg
-	xfce4
-12
-d/home/crazyfarway
-	.config
-3
-d/home/crazyfarway/.config
-	awesome
-8
-d/home/crazyfarway/.config/awesome
-	themes
-4
-d/home/crazyfarway/.config/awesome/themes
-	multicolor
-2
-d/home/crazyfarway/.config/awesome/themes/multicolor
-	theme.lua
-2
-d/home/crazyfarway/.config/awesome/themes
-	multicolor
-2
-d/home/crazyfarway
-	.config
-3
-d/home
-	crazyfarway
-1
-d/
-	usr
-18
-d/usr
-	sbin
-7
-d/usr/sbin
-	..
-0
-d/usr
-	share
-8
-d/usr/share
-	awesome
-4
-d/usr/share/awesome
-	themes
-3
-d/usr/share/awesome/themes
-	default
-1
-d/usr/share/awesome
-	icons
-1
-d/usr/share/awesome/icons
-	..
-0
-d/usr/share/awesome
-	lib
-2
-d/usr/share/awesome/lib
-	wibox
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajosPracticos/Editables
+	grupo10_resumenModelosDesarrolloSoftware_2020_AS.zip
 6
-d/usr/share/awesome
-	lib
-2
-d/usr/share
-	awesome
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajosPracticos
+	Editables
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	trabajoFinalIntegrador
 4
-d/usr
-	share
-8
-d/usr/share
-	doc
-28
-d/usr/share/doc
-	awesome
-23
-d/usr/share/doc/awesome
-	doc
-1
-d/usr/share/doc/awesome/doc
-	sample files
-5
-d/usr/share/doc/awesome/doc/sample files
-	rc.lua.html
-1
-d/usr/share/doc/awesome/doc
-	documentation
-2
-d/usr/share/doc/awesome/doc/documentation
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajoFinalIntegrador
 	..
 0
-d/usr/share/doc/awesome/doc
-	documentation
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	materialDeEstudio
+3
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/materialDeEstudio
+	..
+0
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	mapasMateria
 2
-d/usr/share/doc/awesome
-	doc
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/mapasMateria
+	mapaMateriaUnidad1_2020_AS.pdf
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	Libros
 1
-d/usr/share/doc
-	awesome
-20
-d/usr/share
-	doc
-20
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/Libros
+	UML y Patrones (Craig Larman) .pdf
+3
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	Libros
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Análisis Matemático II
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Análisis Matemático II
+	trabajosPracticos
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Análisis Matemático II/trabajosPracticos
+	resolucionesProfesor
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Análisis Matemático II/trabajosPracticos/resolucionesProfesor
+	TP Nº 3 - AMII - 2020.pdf
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Análisis Matemático II/trabajosPracticos
+	resolucionesProfesor
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Análisis Matemático II
+	materialDeEstudio
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Análisis Matemático II/materialDeEstudio
+	..
+0
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Análisis Matemático II
+	materialDeEstudio
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Fisica II
+3
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Fisica II
+	trabajoPracticos
+3
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Fisica II/trabajoPracticos
+	PRÁCTICO 10_resp.pdf
+4
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Fisica II
+	trabajoPracticos
+3
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Ingles I
+4
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Ingles I
+	materialDeEstudio
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Ingles I/materialDeEstudio
+	..
+0
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Ingles I
+	trabajosPracticos
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Ingles I/trabajosPracticos
+	primerParcial_49894_2020_INGLES.pdf
+7
+d/home/crazyfarway
+	Documentos
+17
+d/home/crazyfarway/Documentos
+	wallpapers
+2
+d/home/crazyfarway/Documentos/wallpapers
+	.git
+1
+d/home/crazyfarway/Documentos
+	wallpapers
+2
+d/home/crazyfarway
+	Documentos
+17
+d/home
+	crazyfarway
+1
+d/
+	usr
+18
 d/usr
 	share
 8
-d/
-	etc
-4
-d/etc
-	xdg
-20
-d/etc/xdg
-	awesome
+d/usr/share
+	doc
+49
+d/usr/share/doc
+	rtorrent
+52
+d/usr/share/doc/rtorrent
+	rtorrent.rc
+1
+d/home/crazyfarway
+	.config
 3
-d/etc/xdg/awesome
-	rc.lua
+d/home/crazyfarway/.config
+	..
+0
+d/home/crazyfarway
+	Escritorio
+18
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Análisis Matemático II
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad
+	2do Año
+2
+d/run/media/crazyfarway/CrazyFarWay
+	torrents
+19
+d/run/media/crazyfarway/CrazyFarWay/torrents
+	..
+0
+d/home/crazyfarway
+	Música
+20
+d/run/media/crazyfarway/CrazyFarWay
+	torrents
+19
+d/run/media/crazyfarway/CrazyFarWay/torrents
+	..
+0
+d/run/media/crazyfarway/CrazyFarWay
+	torrents
+19
+d/run/media/crazyfarway/CrazyFarWay/torrents
+	Wolfenstein 2009 1.2
+1
+d/run/media/crazyfarway/CrazyFarWay/torrents/Wolfenstein 2009 1.2
+	Wolfenstein.iso
+1
+d/run/media/crazyfarway/CrazyFarWay/torrents
+	Wolfenstein 2009 1.2
+1
+d/run/media/crazyfarway/CrazyFarWay
+	torrents
+19
+d/run/media/crazyfarway
+	SAMSUNG
+2
+d/run/media/crazyfarway/SAMSUNG
+	..
+0
+d/run/media/crazyfarway
+	SAMSUNG
+2
+d/run/media
+	root
+2
+d/run
+	media
+12
+d/run/media
+	discoRigido
+1
+d/run/media/discoRigido
+	steamapps
+1
+d/run/media/discoRigido/steamapps
+	..
+0
+d/run/media/discoRigido
+	..
+0
+d/home/crazyfarway
+	rtorrent
+27
+d/home/crazyfarway/rtorrent
+	watch
+2
+d/home/crazyfarway/rtorrent/watch
+	..
+0
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Análisis Matemático II
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Análisis Matemático II
+	trabajosPracticos
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Análisis Matemático II/trabajosPracticos
+	T.P. Nº 12. Max y min.pdf
+13
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Analisis de Sistemas
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	trabajoFinalIntegrador
+4
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajoFinalIntegrador
+	Plantillas de artefactos para documentar el Sistema de Información-20200514
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajoFinalIntegrador/Plantillas de artefactos para documentar el Sistema de Información-20200514
+	AS-_ Plantilla DOCUMENTO DE LA EMPRESA.doc
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajoFinalIntegrador
+	Plantillas de artefactos para documentar el Sistema de Información-20200514
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajoFinalIntegrador/Plantillas de artefactos para documentar el Sistema de Información-20200514
+	AS-_ Plantilla DOCUMENTO DE LA EMPRESA.doc
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajoFinalIntegrador
+	Plantillas de artefactos para documentar el Sistema de Información-20200514
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajoFinalIntegrador/Plantillas de artefactos para documentar el Sistema de Información-20200514
+	AS-_ Plantilla DOCUMENTO DE LA EMPRESA.doc
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajoFinalIntegrador
+	Plantillas de artefactos para documentar el Sistema de Información-20200514
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajoFinalIntegrador/Plantillas de artefactos para documentar el Sistema de Información-20200514
+	ERS_-_IEEE_830.doc
+5
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajoFinalIntegrador
+	Plantillas de artefactos para documentar el Sistema de Información-20200514
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Quimica
+6
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Quimica
+	TrabajosPracticos
+1
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Quimica/TrabajosPracticos
+	ejecitacionUnidad1_2020_QUIMICA.pdf
+3
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Sintaxis y Semantica de los lenguajes
+7
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes
+	materialDeEstudio
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio
+	clase27
+27
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio/clase27
+	MATERIAL COMPLEMENTARIO CLASE 27-20200904.zip
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio
+	clase28
+28
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio/clase28
+	MATERIAL COMPLEMENTARIO CLASE 28-20200904.zip
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio
+	clase17
+17
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio/clase17
+	..
+0
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio
+	clase4
+4
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio/clase4
+	..
+0
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio
+	..
+0
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes
+	materialDeEstudio
+2
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio
+	clase28
+28
+d/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/materialDeEstudio/clase28
+	CLASE 28 - Arboles, Ambigüedad, DS, BNF.pdf
 1
 d
 
 # Right window history (oldest to newest):
-D/home/crazyfarway/Documentos/wallpapers/paisajes
-	road_trees_top_view_119030_3840x2160.jpg
-29
-D/home/crazyfarway/Documentos/wallpapers/cyberpunks
-	descarga.jpeg
-22
+D/home/crazyfarway
+	.config
+3
 D/home/crazyfarway/.config
-	vifm
+	rofi
 35
-D/home/crazyfarway/.config/vifm
-	vifmrc
-7
+D/home/crazyfarway/.config/rofi
+	themes
+1
+D/home/crazyfarway/.config/rofi/themes
+	..
+0
+D/home/crazyfarway/.config/rofi
+	..
+0
+D/home/crazyfarway
+	Documentos
+17
+D/home/crazyfarway/Documentos
+	scripts
+1
+D/home/crazyfarway/Documentos/scripts
+	..
+0
+D/home/crazyfarway/Documentos
+	scripts
+1
+D/home/crazyfarway/Documentos/scripts
+	..
+0
+D/home/crazyfarway/Documentos
+	scripts
+1
+D/home/crazyfarway
+	Documentos
+17
+D/home/crazyfarway/Documentos
+	scripts
+1
+D/home/crazyfarway/Documentos/scripts
+	..
+0
+D/home/crazyfarway/Documentos
+	scripts
+1
+D/home/crazyfarway
+	scripts
+24
+D/home/crazyfarway/scripts
+	..
+0
+D/home/crazyfarway
+	Imágenes
+19
+D/home/crazyfarway/Imágenes
+	ArcoLinux_2020-08-12_22-05-02.png
+1
+D/home/crazyfarway
+	Imágenes
+19
+D/home/crazyfarway/Imágenes
+	ArcoLinux_2020-08-12_22-05-02.png
+1
+D/home/crazyfarway
+	Descargas
+16
+D/home/crazyfarway/Descargas
+	clangd_10.0.0
+1
+D/home/crazyfarway/Descargas/clangd_10.0.0
+	bin
+1
+D/home/crazyfarway/Descargas
+	..
+0
+D/home/crazyfarway
+	Documentos
+17
+D/home/crazyfarway/Documentos
+	scripts
+1
+D/home/crazyfarway
+	Documentos
+17
 D/home/crazyfarway/Documentos
 	wallpapers
-1
-D/home/crazyfarway/Documentos/wallpapers
-	Oscuros
-1
-D/home/crazyfarway/Documentos/wallpapers/Oscuros
-	imJjy2NHc.jpg
 2
-D/home/crazyfarway/Documentos
-	wallpapers
-1
 D/home/crazyfarway/Documentos/wallpapers
-	Oscuros
-1
-D/home/crazyfarway/Documentos/wallpapers/Oscuros
-	1920x1080-5006042-mr-robot-tv-shows-black-logo-hd-4k.jpg
+	fluidos
+5
+D/home/crazyfarway/Documentos/wallpapers/fluidos
+	pawel-czerwinski-yn97LNy0bao-unsplash.jpg
+4
+D/home/crazyfarway/Documentos/wallpapers
+	paisajes
+6
+D/home/crazyfarway/Documentos/wallpapers/paisajes
+	..
+0
+D/home/crazyfarway/Documentos/wallpapers
+	art
+3
+D/home/crazyfarway/Documentos/wallpapers/art
+	4bd6e3f171fd9c80af92b177a166da09.jpg
 1
 D/home/crazyfarway/Documentos/wallpapers
 	Variados
 2
 D/home/crazyfarway/Documentos/wallpapers/Variados
-	35-359851_work-hard-wallpaper-laptop.jpg
-4
+	35-359853_best-success-wallpaper-work-hard-anywhere-wallpaper-hd.jpg
+5
 D/home/crazyfarway/Documentos/wallpapers
-	art
-3
-D/home/crazyfarway/Documentos/wallpapers/art
-	pam_jean-leon_gerome_pollice_verso.jpg_1_.jpg
-14
+	Variados
+2
+D/home/crazyfarway/Documentos/wallpapers/Variados
+	5d50ae3d1b997ff36ba7159f62638fd5.jpg
+2
+D/home/crazyfarway/Documentos/wallpapers
+	Variados
+2
+D/home/crazyfarway/Documentos/wallpapers/Variados
+	5d50ae3d1b997ff36ba7159f62638fd5.jpg
+1
 D/home/crazyfarway/Documentos/wallpapers
 	Variados
 2
 D/home/crazyfarway/Documentos
-	wallpapers
+	URUGUAY.txt
+3
+D/home/crazyfarway
+	rtorrent
+24
+D/home/crazyfarway/rtorrent
+	..
+0
+D/home/crazyfarway
+	rtorrent
+24
+D/home/crazyfarway/rtorrent
+	watch
+2
+D/home/crazyfarway
+	discoRigido
+25
+D/home/crazyfarway/discoRigido
+	discoRigido
 1
+D/home/crazyfarway/discoRigido/discoRigido
+	prueba
+1
+D/home/crazyfarway/discoRigido/discoRigido/prueba
+	..
+0
+D/home/crazyfarway/discoRigido/discoRigido
+	prueba
+1
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway
+	discoRigido
+25
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway/discoRigido/discoRigido
+	..
+0
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway
+	discoRigido
+25
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway/discoRigido/discoRigido
+	..
+0
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway
+	discoRigido
+25
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway/discoRigido/discoRigido
+	prueba
+1
+D/home/crazyfarway/discoRigido/discoRigido/prueba
+	..
+0
+D/home/crazyfarway/discoRigido/discoRigido
+	prueba
+1
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway
+	discoRigido
+25
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway/discoRigido/discoRigido
+	prueba
+1
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway
+	discoRigido
+25
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway/discoRigido/discoRigido
+	steamapps
+1
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway
+	.rtorrent.rc
+43
 D/home
 	crazyfarway
 1
-D/
-	run
-12
-D/run
-	media
-10
-D/run/media
-	crazyfarway
+D/home/crazyfarway
+	discoRigido
+25
+D/home/crazyfarway/discoRigido
+	discoRigido
 1
-D/run/media/crazyfarway
-	CrazyFarWay
+D/home/crazyfarway/discoRigido/discoRigido
+	steamapps
 1
-D/run/media/crazyfarway/CrazyFarWay
-	Universidad
-11
-D/run/media/crazyfarway/CrazyFarWay/Universidad
-	2do Año
-2
-D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
-	Análisis Matemático II
-2
-D/run/media/crazyfarway/CrazyFarWay/Universidad
-	2do Año
-2
-D/run/media/crazyfarway/CrazyFarWay
-	Universidad
-11
-D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
-	Análisis Matemático II
-2
-D/run/media/crazyfarway/CrazyFarWay
-	OBS
-8
-D/run/media/crazyfarway/CrazyFarWay/OBS
-	crazyfarwayPCN_profile
-2
-D/run/media/crazyfarway/CrazyFarWay/OBS/crazyfarwayPCN_profile
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway/discoRigido/discoRigido
+	steamapps
+1
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway/discoRigido/discoRigido
+	steamapps
+1
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway/discoRigido/discoRigido
+	steamapps
+1
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway/discoRigido/discoRigido
 	..
 0
-D/run/media/crazyfarway/CrazyFarWay/OBS
-	Videos
+D/home/crazyfarway/discoRigido
+	discoRigido
 1
-D/run/media/crazyfarway/CrazyFarWay/OBS/Videos
-	2020-08-08 16-26-47.mp4
+D/home/crazyfarway/discoRigido/discoRigido
+	..
+0
+D/home/crazyfarway/discoRigido
+	discoRigido
 1
-D/run/media/crazyfarway/CrazyFarWay/OBS
-	crazyfarwayPCN_profile
-2
-D/run/media/crazyfarway/CrazyFarWay
-	tablas.pdf
-21
-D/run/media
+D/home/crazyfarway/discoRigido/discoRigido
 	..
 0
-D/run
-	media
-10
-D/run/media
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway/discoRigido/discoRigido
 	..
 0
-D/run
-	media
-10
-D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
-	Sistemas Operativos
-8
-D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sistemas Operativos
-	Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts (2018, Wiley).pdf
-4
-D/home/crazyfarway/Descargas
-	..
-0
-D/home/crazyfarway/Documentos
-	wallpapers
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway/discoRigido/discoRigido
+	steamapps
+1
+D/home/crazyfarway/discoRigido
+	discoRigido
+1
+D/home/crazyfarway/discoRigido/discoRigido
+	steamapps
 1
 D/home/crazyfarway
+	Descargas
+18
+D/home/crazyfarway/Descargas
 	..
 0
 D
 
 # Command line history (oldest to newest):
+:trash
 :w
 :lstrash
 :q
 
 # Search history (oldest to newest):
+/netbeans
+/intelli
+/modul
+/modules
+/zathura
 /SF
-/font
 /vimwiki
 /comp
 /compyon
@@ -481,8 +657,16 @@ D
 /xdg
 /awesome
 /awesom
-/doc
 /awe
+/nerd
+/nvim
+/font
+/zoom
+/vifm
+/config
+/rofi
+/doc
+/rto
 
 # Prompt history (oldest to newest):
 pmayoresDeEdad
@@ -492,7 +676,12 @@ pCapitulo 6 - Synchronization Tools.wiki
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/crazyfarway/.local/share/vifm/Trash/000_programa.cpp
+""/home/crazyfarway/.local/share/vifm/Trash/000_AS-_Plantilla_DOCUMENTO_VISION.doc
+""/home/crazyfarway/.local/share/vifm/Trash/000_ArcoLinux_2020-08-30_02-30-29.png
+""/home/crazyfarway/.local/share/vifm/Trash/000_apuntes_2020_FII.pdf
+""/home/crazyfarway/.local/share/vifm/Trash/000_ejercitacion5_49894_2K2_2020_INGLES.pdf
+""/home/crazyfarway/.local/share/vifm/Trash/000_memoria_compartida.c
+""/home/crazyfarway/.local/share/vifm/Trash/000_tp_lab_procesos_concurrencia.pdf
 
 # Directory stack (oldest to newest):
 
@@ -521,6 +710,102 @@ t/home/crazyfarway/.local/share/vifm/Trash/000_Oscuros
 	/home/crazyfarway/Documentos/wallpapers/Oscuros
 t/home/crazyfarway/.local/share/vifm/Trash/000_programa.cpp
 	/home/crazyfarway/Documentos/programa.cpp
+t/run/media/crazyfarway/CrazyFarWay/.vifm-Trash-1000/000_2020-08-16_05-35-35.mp4
+	/run/media/crazyfarway/CrazyFarWay/OBS/Videos/2020-08-16_05-35-35.mp4
+t/home/crazyfarway/.local/share/vifm/Trash/000_picom.conf
+	/home/crazyfarway/Documentos/picom.conf
+t/home/crazyfarway/.local/share/vifm/Trash/000_clangd_10.0.0
+	/home/crazyfarway/Descargas/clangd_10.0.0
+t/home/crazyfarway/.local/share/vifm/Trash/000_AhorcaDOU.cpp
+	/home/crazyfarway/Descargas/AhorcaDOU.cpp
+t/home/crazyfarway/.local/share/vifm/Trash/000_DETALLE PLACA ARDUINO UNO.PNG
+	/home/crazyfarway/Descargas/DETALLE PLACA ARDUINO UNO.PNG
+t/home/crazyfarway/.local/share/vifm/Trash/000_IDE Arduino.pdf
+	/home/crazyfarway/Descargas/IDE Arduino.pdf
+t/home/crazyfarway/.local/share/vifm/Trash/000_Pruebita.cpp
+	/home/crazyfarway/Descargas/Pruebita.cpp
+t/home/crazyfarway/.local/share/vifm/Trash/000_TP2-SSL-Enunciado 2020 V2.pdf
+	/home/crazyfarway/Descargas/TP2-SSL-Enunciado 2020 V2.pdf
+t/home/crazyfarway/.local/share/vifm/Trash/000_clangd-linux-10.0.0.zip
+	/home/crazyfarway/Descargas/clangd-linux-10.0.0.zip
+t/home/crazyfarway/.local/share/vifm/Trash/000_joshua-earle-4UexhWLVcnY-unsplash.jpg
+	/home/crazyfarway/Documentos/wallpapers/paisajes/joshua-earle-4UexhWLVcnY-unsplash.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_20-201523_no-spoilersfsociety-background-summit.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/20-201523_no-spoilersfsociety-background-summit.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_35-359851_work-hard-wallpaper-laptop.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/35-359851_work-hard-wallpaper-laptop.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_35-359853_best-success-wallpaper-work-hard-anywhere-wallpaper-hd.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/35-359853_best-success-wallpaper-work-hard-anywhere-wallpaper-hd.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_35-359854_beach-sunset-wanderlust-and-love-hd-4k-wallpaper.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/35-359854_beach-sunset-wanderlust-and-love-hd-4k-wallpaper.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_36-360285_work-hard-anywhere.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/36-360285_work-hard-anywhere.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_36-360476_go-to-image-work-hard-anywhere-snow.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/36-360476_go-to-image-work-hard-anywhere-snow.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_53e1ce2c075e973036a395d0807ef92d.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/53e1ce2c075e973036a395d0807ef92d.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_1223ca8d7ea9b13a08e72dfb76ca40bf.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/1223ca8d7ea9b13a08e72dfb76ca40bf.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_1920x1080-5006042-mr-robot-tv-shows-black-logo-hd-4k.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/1920x1080-5006042-mr-robot-tv-shows-black-logo-hd-4k.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_11947bb96e62152dbe1465e636ae923f.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/11947bb96e62152dbe1465e636ae923f.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_402681.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/402681.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_1259854.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/1259854.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_10808488.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/10808488.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_CyBo58.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/CyBo58.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_c8ed9a8e726a187a7c0078a559e15cc6.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/c8ed9a8e726a187a7c0078a559e15cc6.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_hustle-wallpapers_604535673.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/hustle-wallpapers_604535673.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_imJjy2NHc.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/imJjy2NHc.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_miguel-mateo-1mVukH3m3Mw-unsplash.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/miguel-mateo-1mVukH3m3Mw-unsplash.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_4ada7d48831dc1f9e8807d2a3a7d4387.jpg
+	/home/crazyfarway/Documentos/wallpapers/Variados/4ada7d48831dc1f9e8807d2a3a7d4387.jpg
+t/run/media/crazyfarway/CrazyFarWay/.vifm-Trash-1000/000_.fuse_hidden0000003800000001
+	/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/TP1_2020_SSL/ejercicioAplicacion/.fuse_hidden0000003800000001
+t/run/media/crazyfarway/CrazyFarWay/.vifm-Trash-1000/000_.fuse_hidden0000005b00000001
+	/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/TP1_2020_SSL/ejercicioAplicacion/.fuse_hidden0000005b00000001
+t/run/media/crazyfarway/CrazyFarWay/.vifm-Trash-1000/000_.fuse_hidden0000005e00000002
+	/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/TP1_2020_SSL/ejercicioAplicacion/.fuse_hidden0000005e00000002
+t/run/media/crazyfarway/CrazyFarWay/.vifm-Trash-1000/000_.fuse_hidden0000006000000003
+	/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/TP1_2020_SSL/ejercicioAplicacion/.fuse_hidden0000006000000003
+t/run/media/crazyfarway/CrazyFarWay/.vifm-Trash-1000/000_.fuse_hidden0000006300000004
+	/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/TP1_2020_SSL/ejercicioAplicacion/.fuse_hidden0000006300000004
+t/run/media/crazyfarway/CrazyFarWay/.vifm-Trash-1000/004_salida.txt
+	/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/TP2_2020_SSL/ejercicioAplicacion/salida.txt
+t/run/media/crazyfarway/CrazyFarWay/.vifm-Trash-1000/001_a.out
+	/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/TP2_2020_SSL/ejercicioAplicacion/a.out
+t/run/media/crazyfarway/CrazyFarWay/.vifm-Trash-1000/000_ejercicioAplicacion_TP2_G4_(48184;50333;49894)_2020_SSL.zip
+	/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/trabajosPracticos/editables/TP2_2020_SSL/ejercicioAplicacion/ejercicioAplicacion_TP2_G4_(48184;50333;49894)_2020_SSL.zip
+t/run/media/crazyfarway/CrazyFarWay/.vifm-Trash-1000/000_ArcoLinux-2020-08-11-1597135025_screenshot_1366x768.jpg
+	/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Sintaxis y Semantica de los lenguajes/capturasEjercicios/ArcoLinux-2020-08-11-1597135025_screenshot_1366x768.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_Billie-Eilish-debut-album-e1554050828895.jpg
+	/home/crazyfarway/Documentos/Billie-Eilish-debut-album-e1554050828895.jpg
+t/home/crazyfarway/.local/share/vifm/Trash/000_session
+	/home/crazyfarway/session
+t/home/crazyfarway/.local/share/vifm/Trash/000_watch
+	/home/crazyfarway/watch
+t/home/crazyfarway/.local/share/vifm/Trash/000_Wolf09-PiviGames.blog.torrent
+	/home/crazyfarway/rtorrent/watch/Wolf09-PiviGames.blog.torrent
+t/home/crazyfarway/.local/share/vifm/Trash/000_AS-_Plantilla_DOCUMENTO_VISION.doc
+	/home/crazyfarway/Descargas/AS-_Plantilla_DOCUMENTO_VISION.doc
+t/home/crazyfarway/.local/share/vifm/Trash/000_ArcoLinux_2020-08-30_02-30-29.png
+	/home/crazyfarway/Descargas/ArcoLinux_2020-08-30_02-30-29.png
+t/home/crazyfarway/.local/share/vifm/Trash/000_apuntes_2020_FII.pdf
+	/home/crazyfarway/Descargas/apuntes_2020_FII.pdf
+t/home/crazyfarway/.local/share/vifm/Trash/000_ejercitacion5_49894_2K2_2020_INGLES.pdf
+	/home/crazyfarway/Descargas/ejercitacion5_49894_2K2_2020_INGLES.pdf
+t/home/crazyfarway/.local/share/vifm/Trash/000_memoria_compartida.c
+	/home/crazyfarway/Descargas/memoria_compartida.c
+t/home/crazyfarway/.local/share/vifm/Trash/000_tp_lab_procesos_concurrencia.pdf
+	/home/crazyfarway/Descargas/tp_lab_procesos_concurrencia.pdf
 
 # State:
 f
@@ -529,6 +814,6 @@ i1
 [F
 F
 I1
-].1
+].0
 ]F
 s0

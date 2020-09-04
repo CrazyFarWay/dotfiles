@@ -1,4 +1,4 @@
-set number "Para que aparezcan los numeros de linea
+set number relativenumber "Para que aparezcan los numeros de linea
 set mouse=a "Para poder usar el mouse dentro del editor
 set numberwidth=1 "El ancho de la columna de numeros de linea
 set clipboard=unnamed "Para que lo que copiamos dentro del editor no se almacene en la papelera del SO
@@ -89,6 +89,7 @@ nmap <Leader>f <Plug>(easymotion-s2)
 
 nmap <Leader>w :w<CR>
 nmap <Leader>q :q<CR>
+nmap <Leader>v :vsplit<CR>
 nnoremap <M-j>	:resize -2<CR>
 nnoremap <M-k>	:resize +2<CR>
 nnoremap <M-h>	:vertical resize -2<CR>

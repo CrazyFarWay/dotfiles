@@ -578,6 +578,7 @@ awful.spawn.with_shell("/home/crazyfarway/.config/polybar/launch.sh")
 awful.spawn.with_shell("kmix")
 awful.spawn.with_shell("nm-applet")
 awful.spawn.with_shell("xfce4-power-manager")
+awful.spawn.with_shell("sudo mount -a")
 
 --gaps
 beautiful.useless_gap = 3
