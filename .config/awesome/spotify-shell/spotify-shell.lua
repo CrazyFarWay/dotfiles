@@ -54,7 +54,7 @@ w:setup {
 local function launch()
     w.visible = true
 
-    awful.placement.top(w, { margins = {top = 40}, parent = awful.screen.focused()})
+    awful.placement.top(w, { margins = {top = 1000}, parent = awful.screen.focused()})
     awful.prompt.run{
         prompt = "<b>Spotify Shell</b>: ",
         bg_cursor = '#84bd00',
