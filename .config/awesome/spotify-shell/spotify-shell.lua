@@ -23,7 +23,7 @@ local w = wibox {
     border_color = '#84bd00',
     max_widget_size = 500,
     ontop = true,
-    height = 50,
+    height = 20,
     width = 250,
     shape = function(cr, width, height)
         gears.shape.rounded_rect(cr, width, height, 3)
@@ -39,12 +39,12 @@ w:setup {
         },
         id = 'icon',
         top = 9,
-        left = 10,
+        left = 0,
         layout = wibox.container.margin
     },
     {
         layout = wibox.container.margin,
-        left = 10,
+        left = 5,
         spotify_shell,
     },
     id = 'left',
@@ -54,9 +54,9 @@ w:setup {
 local function launch()
     w.visible = true
 
-    awful.placement.top(w, { margins = {top = 1000}, parent = awful.screen.focused()})
+    awful.placement.top(w, { margins = {top = 1020}, parent = awful.screen.focused()})
     awful.prompt.run{
-        prompt = "<b>Spotify Shell</b>: ",
+        prompt = "<b>Spotify</b>: ",
         bg_cursor = '#84bd00',
         textbox = spotify_shell.widget,
         history_path = gfs.get_dir('cache') .. '/spotify_history',

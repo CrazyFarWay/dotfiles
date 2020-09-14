@@ -22,7 +22,7 @@
 
 # TUI:
 ar
-q1
+q0
 v2
 ov
 m-1
@@ -333,305 +333,305 @@ d/usr/share/backgrounds/arcolinux
 d
 
 # Right window history (oldest to newest):
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	..
-0
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway
-	discoRigido
-25
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	prueba
-1
-D/home/crazyfarway/discoRigido/discoRigido/prueba
-	..
-0
-D/home/crazyfarway/discoRigido/discoRigido
-	prueba
-1
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway
-	discoRigido
-25
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	prueba
-1
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway
-	discoRigido
-25
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	steamapps
-1
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway
-	.rtorrent.rc
-43
-D/home
-	crazyfarway
-1
-D/home/crazyfarway
-	discoRigido
-25
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	steamapps
-1
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	steamapps
-1
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	steamapps
-1
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	steamapps
-1
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	..
-0
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	..
-0
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	..
-0
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	..
-0
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	steamapps
-1
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	steamapps
-1
-D/home/crazyfarway
-	Descargas
+D/usr/share/awesome
+	themes
+3
+D/usr/share/awesome/themes
+	xresources
+4
+D/usr/share/awesome
+	themes
+3
+D/usr/share
+	arcolinux
 18
-D/home/crazyfarway/Descargas
+D/usr/share/arcolinux
 	..
 0
-D/home/crazyfarway
-	.config
-4
-D/home/crazyfarway/.config
-	neofetch
-31
-D/home/crazyfarway/.config/neofetch
-	PCNLogoOficial.png
+D/usr/share
+	icons
+51
+D/usr/share/icons
+	Adwaita
 1
-D/home/crazyfarway/.config
-	volumeicon
-49
-D/home/crazyfarway
-	.config
+D/usr/share/icons/Adwaita
+	32x32
+5
+D/usr/share/icons/Adwaita/32x32
+	apps
+2
+D/usr/share/icons/Adwaita/32x32/apps
+	utilities-terminal-symbolic.symbolic.png
+38
+D/usr/share/icons/Adwaita/32x32
+	apps
+2
+D/usr/share/icons/Adwaita
+	48x48
+6
+D/usr/share/icons/Adwaita/48x48
+	apps
+2
+D/usr/share/icons/Adwaita/48x48/apps
+	accessories-text-editor-symbolic.symbolic.png
 4
-D/home/crazyfarway/.config
-	neofetch
-31
-D/home/crazyfarway/.config/neofetch
-	arcolinux-white.png
-25
-D/home/crazyfarway
-	Descargas
-21
-D/home/crazyfarway/Descargas
-	wget-log
+D/usr/share/icons/Adwaita/48x48
+	categories
+3
+D/usr/share/icons/Adwaita/48x48/categories
+	applications-science-symbolic.symbolic.png
+5
+D/usr/share/icons/Adwaita/48x48
+	actions
+1
+D/usr/share/icons/Adwaita/48x48/actions
+	bookmark-new-symbolic.symbolic.png
+5
+D/usr/share/icons/Adwaita/48x48
+	devices
+4
+D/usr/share/icons/Adwaita/48x48/devices
+	audio-headset-symbolic.symbolic.png
+5
+D/usr/share/icons/Adwaita/48x48
+	emblems
+5
+D/usr/share/icons/Adwaita/48x48/emblems
+	emblem-music-symbolic.symbolic.png
+5
+D/usr/share/icons/Adwaita/48x48
+	emotes
+6
+D/usr/share/icons/Adwaita/48x48/emotes
+	face-cool-symbolic.symbolic.png
+5
+D/usr/share/icons/Adwaita/48x48
+	legacy
 7
-D/home/crazyfarway
-	discoRigido
-30
-D/home/crazyfarway/discoRigido
-	discoRigido
+D/usr/share/icons/Adwaita/48x48/legacy
+	applets-screenshooter.png
+7
+D/usr/share/icons/Adwaita/48x48
+	mimetypes
+8
+D/usr/share/icons/Adwaita/48x48/mimetypes
+	application-x-appliance-symbolic.symbolic.png
+6
+D/usr/share/icons/Adwaita/48x48
+	places
+9
+D/usr/share/icons/Adwaita/48x48/places
+	folder-drag-accept.png
+5
+D/usr/share/icons/Adwaita/48x48
+	status
+10
+D/usr/share/icons/Adwaita/48x48/status
+	audio-volume-low-symbolic.symbolic.png
+6
+D/usr/share/icons/Adwaita/48x48
+	ui
+11
+D/usr/share/icons/Adwaita/48x48/ui
+	list-drag-handle-symbolic.symbolic.png
+7
+D/usr/share/icons/Adwaita/48x48
+	ui
+11
+D/usr/share/icons/Adwaita
+	64x64
+7
+D/usr/share/icons
+	gnome
+49
+D/usr/share/icons/gnome
+	32x32
+4
+D/usr/share/icons/gnome/32x32
+	apps
 1
-D/home/crazyfarway/discoRigido/discoRigido
-	steamapps
-2
-D/home/crazyfarway/discoRigido
-	discoRigido
+D/usr/share/icons/gnome/32x32/apps
+	libreoffice-startcenter.png
+15
+D/usr/share/icons/gnome/32x32
+	apps
 1
-D/home/crazyfarway
-	Documentos
+D/usr/share/icons/gnome
+	32x32
+4
+D/usr/share/icons
+	gnome
 23
-D/home/crazyfarway/Documentos
-	wallpapers
+D/usr/share
+	icons
+21
+D/usr
+	share
+9
+D/
+	etc
+4
+D/etc
+	fonts
+21
+D/etc/fonts
+	conf.d
 2
-D/home/crazyfarway/Documentos/wallpapers
-	Variados
-2
-D/home/crazyfarway/Documentos/wallpapers/Variados
-	billieEilishWeAllFallAsleep.jpg
-2
-D/home/crazyfarway/Documentos/wallpapers
-	Variados
-2
-D/home/crazyfarway/Documentos/wallpapers/Variados
-	billieEilishWeAllFallAsleep.jpg
-2
-D/home/crazyfarway/Documentos/wallpapers
-	Variados
-2
-D/home/crazyfarway/Documentos/wallpapers/Variados
-	5d50ae3d1b997ff36ba7159f62638fd5.jpg
+D/etc/fonts/conf.d
+	10-hinting-slight.conf
 1
-D/home/crazyfarway/Documentos/wallpapers
-	art
-3
-D/home/crazyfarway/Documentos/wallpapers/art
-	4bd6e3f171fd9c80af92b177a166da09.jpg
-1
-D/home/crazyfarway/Documentos/wallpapers
-	art
-3
 D/home/crazyfarway
-	discoRigido
-30
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	VirtualMachines
-2
-D/home/crazyfarway/discoRigido/discoRigido/VirtualMachines
-	VMware-Player-15.5.2-15785246.x86_64.bundle
-2
-D/home/crazyfarway/discoRigido/discoRigido
-	VirtualMachines
-2
-D/home/crazyfarway/discoRigido
-	discoRigido
-1
-D/home/crazyfarway/discoRigido/discoRigido
-	VirtualMachines
-2
-D/home/crazyfarway/discoRigido/discoRigido/VirtualMachines
-	VMware-Player-15.5.6-16341506.x86_64.bundle
-3
+	Desktop
+24
+D/home/crazyfarway/Desktop
+	..
+0
 D/home/crazyfarway
-	discoRigido
-30
-D/home
+	Descargas
+23
+D/home/crazyfarway/Descargas
+	701730797702348911.yaml
+2
+D/home/crazyfarway
+	Descargas
+14
+D/home/crazyfarway/Descargas
+	Discord
+1
+D/home/crazyfarway/Descargas/Discord
+	locales
+1
+D/home/crazyfarway/Descargas/Discord/locales
+	..
+0
+D/home/crazyfarway/Descargas/Discord
+	resources
+2
+D/home/crazyfarway/Descargas/Discord/resources
+	bootstrap
+1
+D/home/crazyfarway/Descargas/Discord/resources/bootstrap
+	..
+0
+D/home/crazyfarway/Descargas/Discord/resources
+	bootstrap
+1
+D/home/crazyfarway/Descargas/Discord
+	swiftshader
+3
+D/home/crazyfarway/Descargas/Discord/swiftshader
+	libEGL.so
+1
+D/home/crazyfarway/Descargas/Discord
+	swiftshader
+3
+D/home/crazyfarway/Descargas/Discord/swiftshader
+	libEGL.so
+1
+D/home/crazyfarway/Descargas/Discord
+	resources
+2
+D/home/crazyfarway/Descargas/Discord/resources
+	bootstrap
+1
+D/home/crazyfarway/Descargas/Discord
+	resources
+2
+D/home/crazyfarway/Descargas/Discord/resources
+	..
+0
+D/home/crazyfarway/Descargas/Discord
+	locales
+1
+D/home/crazyfarway/Descargas/Discord/locales
+	..
+0
+D/home/crazyfarway/Descargas/Discord
+	swiftshader
+3
+D/home/crazyfarway/Descargas
+	..
+0
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Fisica II
+3
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Fisica II
+	materialDeEstudio
+2
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Fisica II/materialDeEstudio
+	Física II - Capacitores.pdf
+5
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Fisica II
+	materialDeEstudio
+2
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Analisis de Sistemas
+1
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	trabajosPracticos
+5
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajosPracticos
+	Editables
+1
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajosPracticos/Editables
+	..
+0
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajosPracticos
+	Editables
+1
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	materialDeEstudio
+3
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/materialDeEstudio
+	..
+0
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	mapasMateria
+2
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/mapasMateria
+	..
+0
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	trabajoFinalIntegrador
+4
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajoFinalIntegrador
+	..
+0
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	mapasMateria
+2
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/mapasMateria
+	..
+0
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	Libros
+1
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/Libros
+	..
+0
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	trabajosPracticos
+5
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajosPracticos
+	Editables
+1
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	trabajosPracticos
+5
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Analisis de Sistemas
+1
+D/run/media
 	crazyfarway
 1
-D/
-	usr
-18
-D/usr
-	share
-8
-D/usr/share
-	backgrounds
-28
-D/usr/share/backgrounds
-	arcolinux
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año
+	Analisis de Sistemas
 1
-D/usr/share/backgrounds/arcolinux
-	floating-world-in-space-3000x2357.jpg
-8
-D/usr/share/backgrounds
-	arcolinux
-1
-D/usr/share
-	backgrounds
-28
-D/usr
-	share
-8
-D/
-	usr
-18
-D/home/crazyfarway
-	Documentos
-23
-D/home/crazyfarway/Documentos
-	wallpapers
-2
-D/home/crazyfarway/Documentos/wallpapers
-	Variados
-2
-D/home/crazyfarway/Documentos/wallpapers/Variados
-	billieEilishWeAllFallAsleep.jpg
-2
-D/home/crazyfarway
-	.config
-4
-D/home/crazyfarway/.config
-	awesome
-13
-D/home/crazyfarway/.config/awesome
-	spotify-shell
-3
-D/home/crazyfarway/.config/awesome/spotify-shell
-	..
-0
-D/home/crazyfarway/.config/awesome
-	spotify-shell
-3
-D/home/crazyfarway/.config/awesome/spotify-shell
-	..
-0
-D/home/crazyfarway/.config/awesome
-	spotify-shell
-3
-D/home/crazyfarway/.config/awesome/spotify-shell
-	..
-0
-D/home/crazyfarway/.config/awesome
-	spotify-shell
-3
-D/home/crazyfarway/.config/awesome/spotify-shell
-	..
-0
-D/home/crazyfarway/.config/awesome
-	spotify-shell
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas
+	trabajosPracticos
+5
+D/run/media/crazyfarway/CrazyFarWay/Universidad/2do Año/Analisis de Sistemas/trabajosPracticos
+	TP2_grupo10_(48311;50333;49894)_2020_AS.pdf
 3
 D
 
@@ -662,7 +662,6 @@ D
 /awe
 /nerd
 /nvim
-/font
 /zoom
 /vifm
 /config
@@ -673,6 +672,7 @@ D
 /progr
 /back
 /awesom
+/font
 
 # Prompt history (oldest to newest):
 pmayoresDeEdad
