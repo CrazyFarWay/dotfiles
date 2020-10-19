@@ -249,3 +249,4 @@ alias commit='git commit -m'
 alias pull='git pull origin'
 alias push='git push origin'
 
+alias sp="/home/crazyfarway/.config/awesome/spotify-shell/sp"
