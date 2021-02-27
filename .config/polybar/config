@@ -18,7 +18,7 @@
 
 [colors]
 ;background = ${xrdb:color0:#222}
-background = #00000
+background = #000000
 background-alt = #000
 ;foreground = ${xrdb:color7:#222}
 foreground = #FFFFFF
@@ -28,21 +28,23 @@ secondary = #e60053
 alert = #bd2c40
 grisOscuro = #111314
 morado = #35003d
+rojo = #6b0f32
+blanco = #FFFFFF
 amarillo = #fffa00
 
 [bar/crazyBar]
 ;monitor = ${env:MONITOR:HDMI-1}
 width = 50%
-height = 12
+height = 14
 offset-x = 25%
 offset-y = 4
-radius = 5.0
+radius = 7.0
 fixed-center = true
 bottom = true
 
-background-0 = ${colors.background}
-background-1 = ${colors.grisOscuro}
-foreground = ${colors.amarillo}
+background-0 = ${colors.rojo}
+background-1 = ${colors.morado}
+foreground = ${colors.blanco}
 
 line-size = 0
 line-color = #f00
