@@ -4,10 +4,10 @@
 " Reset all styles first
 highlight clear
 
-highlight Border	cterm=none	ctermfg=235	ctermbg=96
+highlight Border	cterm=none	ctermfg=235	ctermbg=16
 
-highlight TopLine	cterm=none	ctermfg=226	ctermbg=96
-highlight TopLineSel	cterm=bold	ctermfg=226	ctermbg=96
+highlight TopLine	cterm=none	ctermfg=250	ctermbg=16
+highlight TopLineSel	cterm=bold	ctermfg=232	ctermbg=146
 
 highlight Win		cterm=none	ctermfg=188	ctermbg=232
 highlight Directory	cterm=none	ctermfg=99	ctermbg=232
