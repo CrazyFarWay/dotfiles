@@ -20,7 +20,7 @@ highlight JobLine	cterm=bold	ctermfg=16	ctermbg=11
 highlight StatusLine	cterm=underline	ctermfg=232	ctermbg=146
 highlight ErrorMsg	cterm=bold	ctermfg=231	ctermbg=88
 highlight WildMenu	cterm=bold	ctermfg=16	ctermbg=11
-highlight CmdLine	cterm=bold	ctermfg=232	ctermbg=146
+highlight CmdLine	cterm=bold	ctermfg=231	ctermbg=103
 
 highlight Executable	cterm=none	ctermfg=231	ctermbg=16
 highlight Link		cterm=underline	ctermfg=87	ctermbg=16
