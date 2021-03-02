@@ -18,15 +18,15 @@ local ICON = '/usr/share/icons/Papirus-Light/32x32/apps/spotify-linux-48x48.svg'
 local spotify_shell = awful.widget.prompt()
 
 local w = wibox {
-    bg = '#1e252c',
+    bg = '#381957',
     border_width = 1,
-    border_color = '#84bd00',
+    border_color = '#dcc1f7',
     max_widget_size = 500,
     ontop = true,
-    height = 20,
-    width = 250,
+    height = 25,
+    width = 500,
     shape = function(cr, width, height)
-        gears.shape.rounded_rect(cr, width, height, 3)
+        gears.shape.rounded_rect(cr, width, height, height / 2)
     end
 }
 
@@ -35,16 +35,16 @@ w:setup {
         {
             image = ICON,
             widget = wibox.widget.imagebox,
-            resize = false
+            resize = true
         },
         id = 'icon',
-        top = 9,
+        top = 0,
         left = 0,
         layout = wibox.container.margin
     },
     {
         layout = wibox.container.margin,
-        left = 5,
+        left = 15,
         spotify_shell,
     },
     id = 'left',
@@ -57,7 +57,7 @@ local function launch()
     awful.placement.top(w, { margins = {top = 1020}, parent = awful.screen.focused()})
     awful.prompt.run{
         prompt = "<b>Spotify</b>: ",
-        bg_cursor = '#84bd00',
+        bg_cursor = '#cb96ff',
         textbox = spotify_shell.widget,
         history_path = gfs.get_dir('cache') .. '/spotify_history',
         exe_callback = function(input_text)
