@@ -63,7 +63,7 @@ set norunexec
 
 " List of color schemes to try (picks the first one supported by the terminal)
 
-colorscheme Zenburn
+colorscheme CrazyFarWayTheme
 
 " Format for displaying time in file list. For example:
 " TIME_STAMP_FORMAT=%m/%d-%H:%M
@@ -74,6 +74,7 @@ set timefmt=%m/%d\ %H:%M
 " Show list of matches on tab completion in command-line mode
 
 set wildmenu
+set wmnu
 
 " Display completions in a form of popup with descriptions of the matches
 
