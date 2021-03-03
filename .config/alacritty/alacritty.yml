@@ -35,7 +35,7 @@ window:
   # by DPI and the specified value is always added at both opposing sides.
   padding:
     x: 5 
-    y: 3
+    y: 5 
 
   # Spread additional padding evenly around the terminal content.
   #dynamic_padding: false
@@ -111,8 +111,8 @@ font:
   # Offset is the extra space around each character. `offset.y` can be thought of
   # as modifying the line spacing, and `offset.x` as modifying the letter spacing.
   offset:
-    x: 1
-    y: 1
+    x: 0
+    y: 0
 
   # Glyph offset determines the locations of the glyphs within their cells with
   # the default being at the bottom. Increasing `x` moves the glyph to the right,
@@ -185,14 +185,14 @@ colors:
   # Normal colors
   normal:
     black:   '#282828'
-    red:     '#04f4be'
+    red:     '#d67069'
     #green:   '#bfff00'
-    green:   '#dba8ff'
-    yellow:  '#d79921'
-    blue:    '#04f4be'
-    magenta: '#b16286'
-    cyan:    '#FFFFFF'
-    white:   '#04f4be'
+    green:   '#cbe673'
+    yellow:  '#ffee00'
+    blue:    '#a791ff'
+    magenta: '#ebb0ff'
+    cyan:    '#04f4be'
+    white:   '#FFFFFF'
 
   # Bright colors
   bright:
@@ -313,7 +313,7 @@ colors:
 #
 # Window opacity as a floating point number from `0.0` to `1.0`.
 # The value `0.0` is completely transparent and `1.0` is opaque.
-background_opacity: 0.4
+background_opacity: 0.3
 
 selection:
   #semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
