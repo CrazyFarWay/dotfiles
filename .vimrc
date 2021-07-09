@@ -25,6 +25,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'danilo-augusto/vim-afterglow'
 Plug 'ryanoasis/vim-devicons'
 Plug 'ajh17/spacegray.vim'
+Plug 'cocopon/iceberg.vim'
 
 " Wiki
 Plug 'vimwiki/vimwiki'
@@ -48,9 +49,9 @@ Plug 'ThePrimeagen/vim-be-good', {'do': './install.sh'}
 
 call plug#end()
 
-set background=dark
+"set background=dark
 "let g:afterglow_blackout=1
-colorscheme spacegray
+colorscheme iceberg
 
 " Para poner background transparente
 " hi Normal guibg=NONE ctermbg=NONE
